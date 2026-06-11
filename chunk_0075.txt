@@ -1,0 +1,48 @@
+Intervențiile cu risc înalt de a determina endocardită sunt procedurile stomatologice cu
+manipularea gingiei sau a regiunii periapicale a dinților sau perforarea mucoasei orale.
+Nu se indică profilaxie cu antibiotic pentru:
+      Proceduri stomatologice: injecții cu anestezic local în țesut neinfectat, scoaterea suturilor,
+radiografie dentară, plasarea, ajustarea protezelor sau dispozitivelor ortodontice, traumatisme ale
+buzelor, tratamentul cariilor dentare
+      Proceduri care implică tractul respirator: bronhoscopie, laringoscopie, intubare transnazală
+sau endotraheală
+      Proceduri gastrointestinale sau urogenitale: gastroscopie, colonoscopie, cistoscopie, ecografie
+transesofagiană
+      Orice proceduri legate de piele sau țesutul subcutanat
+        Profilaxia endocarditei infecțioase în cazul procedurilor stomatologice cu risc înalt se
+adresează prevenției infecției cu streptococci din grupul oral și se face prin administrarea unei doze
+unice de amoxicilină sau ampicilină (2g iv sau oral) cu 30-60min înainte de procedură (la copii
+50mg/kg oral sau iv). Se poate folosi și cefazolin sau ceftriaxon 1g iv sau cefalexin 2g iv la adulți,
+(50mg/kg oral sau iv la copii). La pacienții cu alergie la penicilină sau ampicilină se recomandă
+clindamicina (600mg oral sau iv) doză unică (la copii 20mg/kg oral sau iv).
+        Pacienților la risc, supuși unei proceduri invazive respiratorii pentru a trata o infecție
+cunoscută (ex: drenajul unui abces) li se va administra un regim antibiotic care conține o penicilină
+sau cefalosporină. La pacienții cu intoleranță la betalactamide sau dacă se suspectează o tulpină
+rezistentă la meticilina se va administra vancomicină.
+        În cazul procedurilor gastrointestinale sau genitourinare la pacienții cu risc înalt pentru
+endocardită, pentru a trata o infecție diagnosticată sau pentru a preveni infecția în sfera
+gastrointestinală sau genitourinară regimul antibiotic va conține un agent contra enterococilor
+(ampicilină, amoxicilina sau vancomicină-pentru cei ce nu tolerează betalactamidele).
+        Pentru prevenția endocarditei la pacienții ce sunt supuși intervențiilor de protezare valvulară
+cardiacă sau vasculară, antibioterapia profilactică trebuie începută imediat înainte de intervenție,
+repetată la terminarea acesteia și continuată până la 48h după. Potențialele focare de sepsis dentar
+trebuie eliminate cu cel puțin 2 săptămâni înaintea intervenției chirurgicale, dacă aceasta nu reprezintă
+o urgență. Cel mai frecvent, endocardita pe proteză are drept agent etiologic stafilococul auriu
+coagulazonegativ. Se va administra profilaxie antibiotică pentru pacienții cărora li se implantează
+dispozitive intracardiace (pentru stimulare sau resincronizare sau defibrilator).
+        Pentru pacienții cu risc înalt de endocardită supuși intervențiilor chirurgicale pentru abcese
+cutanate sau musculoscheletale se va administra un regim terapeutic cu antibiotic eficient împotriva
+stafilococilor și streptococilor betahemolitici (penicilină sau cefalosporină). Vancomicina se va folosi
+pentru cei ce nu tolerează betalactamidele sau la cei cu infecții cu MRSA. Pentru procedurile de tip
+piercing sau tatuaj nu se administrează profilaxie cu antibiotic; se recomandă descurajarea acestor
+proceduri la cei cu boli cardiace și asepsie strictă a procedurii în general.
+
+Bibliografie
+Habib G et al ESC Guidelines for the management of infective endocarditis European Heart Journal (2015) 36, 3075–
+3123
+
+
+
+
+                                                      145
+

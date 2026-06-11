@@ -1,0 +1,55 @@
+9.5. Factorii de care depinde toleranţa hemodinamică a unei aritmii şi generalităţi asupra
+clinicii
+         Toleranţa hemodinamică a unei aritmii depinde de mai mulţi factori:
+         1. Substratul: prezenţa sau absenţa unei boli cardiace structurale şi gravitatea acesteia. O
+aritmie cu aceeaşi frecvenţă este mai bine tolerată în cazul unui cord fără afectare structurală şi invers.
+         2. Frecvenţa cardiacă în acces. Extremele (ritmuri foarte rapide sau foarte lente) sunt mai greu
+tolerate.
+         3. Durata accesului. În general aritmiile susţinute sunt mai greu tolerate decât aritmiile de
+durată scurtă.
+         4. Medicaţia concomitentă eventuală care ar putea agrava consecinţele fiziopatologice ale
+aritmiei: de exemplu vasodilatatoarele scad în plus TA în cazul tahicardiilor (când debitul sistolic este
+scăzut din cauza hipodiastoliei) iar medicaţia bradicardizantă agravează consecinţele unei bradicardii.
+         5.Poziţia pacientului în momentul apariţiei aritmiei. În principiu, o aritmie este mai bine
+tolerată în decubit dorsal şi mai puţin bine tolerată în ortostatism.
+         Termenul “toleranţa hemodinamică redusă” a unei aritmii defineşte trei categorii de
+consecinţe:
+         1. Debit cardiac scăzut - în urgenţă cele mai evidente sunt consecinţele asupra debitului
+cerebral: presincopa, sincopa
+         2. Staza retrogradă - în urgenţă cele mai evidente sunt consecinţele asupra întoarcerii venoase
+pulmonare: dispnee până la edem pulmonar acut (EPA)
+         3. Ischemia - care se poate manifesta ca angină funcţionala sau mai grav, până la sindroame
+coronariene acute.
+         Simptomele tahi sau bradiaritmiilor pot avea diferite grade de gravitate în funcţie de toleranţa
+hemodinamică şi se pot clasifica după cum urmează:
+         1. Absente
+         2. Uşoare: palpitaţii (se detaliază caracterele: cu ritm rapid/rar regulate sau neregulate),
+poliurie (întâlnită mai ales în tahicardia paroxistica supraventriculară (TPSV), când apare dupa criză,
+dar şi în fibrilaţia atrială (FA) paroxistică, dureri toracice nespecifice, pulsaţii ale regiunii cervicale
+etc.
+         3. Severe: vezi mai sus simptomele descrise în aritmii cu toleranţă redusă.
+         Anamneza trebuie să precizeze gradul de toleranţă hemodinamică şi gradul de influenţare a
+calităţii vieţii, acestea fiind elementele esenţiale pentru orientarea atitudinii terapeutice.
+         Examenul obiectiv cardiovascular trebuie să identifice următoarele elemente:
+         1. Caracterizarea ritmului ventricular şi, dacă este posibil şi atrial, prin examinarea pulsului
+periferic, auscultaţia cordului şi examenul pulsului jugular
+         2. Semnele eventuale de disociaţie atrioventriculară: intermitent unde ample pe pulsul jugular
+şi Z I accentuat
+         3. Răspunsul (tahiaritmiei) la manevre vagale
+         4. Valoarea TA şi prezenţa eventualelor semne de stază pulmonară sau sistemică.
+9.6. Metode de diagnostic specific în aritmii-enumerare
+        Examenele paraclinice utile diagnosticul aritmiilor:
+        1. EKG suprafaţă (12 derivaţii) este cea mai utilă metodă, permiţând aprecierea activităţilor
+atrială respectiv ventriculară, dar nu permite decât diagnosticul aritmiilor prezente în momentul
+înregistrării.
+        2. Sisteme de monitorizare EKG de lungă durată (Holter, event recordere, loop recordere,
+sisteme de monitorizare implantabile –loop recordere implantabile): mai puţin precise decât EKG 12
+D în evaluarea morfologică, dar cu posibilitatea de a identifica aritmii intermitente.
+        3. Metodele care identifică indici neinvazivi de risc proaritmic (EKG de înaltă rezoluţie sau
+potenţiale tardive ventriculare şi atriale, dispersia intervalului QT, microalternanţa undei T) sunt utile
+în mod indirect în diagnostic prin identificarea pacienţilor la risc pentru dezvoltarea aritmiilor. La
+modul general, aceşti indici au valoare predictiv pozitivă mică dar valoare predictiv negativă
+acceptabilă pentru riscul aritmic.
+
+                                                   153
+

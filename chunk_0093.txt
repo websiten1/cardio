@@ -1,0 +1,58 @@
+între QRS-ul dinaintea ESA şi QRS-ul de după ESA) este < 2x interval RR sinusal (pauza
+subcompensatorie) spre deosebire de ESV, care în majoritatea lor sunt cu pauză compensatorie
+completă (2xRR). Rareori, ESA nu pot descărca NSA şi următoarea bătaie sinusală ajunge la timp
+(ESA interpolată). În cazul în care există o afectare a NSA, pauza post extrasistolică poate fi
+prelungită.
+        Alte examene
+        Inregistrările Holter sunt utile mai ales pentru cuantificarea incărcăturii aritmice (numarul
+ESA/24 h) şi pentru corelarea simptomelor cu aritmia
+        Studiul electrofiziologic invaziv nu este indicat în ESA dacât atunci când se intenţionează
+ablaţia acestora.
+
+Tratament
+        ESA asimptomatice nu necesită tratament.
+        Când ESA apar în context de cardiopatie, tratamentul se adresează în principal bolii de bază.
+        Când sunt simptomatice şi necesită tratament de obicei se folosesc, ca şi la ESV, BB iniţial
+în doze mici (de exemplu metoprolol 50 mg /zi), eventual crescute până la obţinerea efectului; efectul
+aşteptat este de reducere a simptomelor şi nu de eliminare a ESA. Când BB nu sunt eficace se pot
+folosi antiaritmice pure (de clasa I sau III), dar având în vedere efectele secundare beneficiul trebuie
+judecat în context.
+        Ablaţia ESA poate fi indicată când acestea sunt intens simptomatice fără răspuns la tratament
+medical, când dau cardiomiopatie indusă de ES sau când declanşează FA (în strategia de ablaţie a FA
+paroxistice).
+
+9.9. Tahicardiile supraventriculare - generalități
+Definiţie
+Tahicardiile supraventriculare (TSV) sunt aritmii cu frecvenţa > 100/min în mecanismul cărora este
+implicată o structură situată deasupra FH (sau, exceptional, FH)
+Clasificare tahicardiilor supreventriculare se face in funcţie de mecanismul de producere şi este
+redată in tabelul 1.
+          Tabelul 1. Clasificarea tahicardiilor supraventriculare. Se observă lipsa categoriei “TPSV” care este
+       o noţiune clinică şi se referă la începutul şi sfarşitul bruşte ale accesului şi nu la mecanismul de producere
+ Tahicardii atriale
+  Tahicardie sinusală
+       Fiziologică
+       Inadecvată
+       Reintrare in NSA
+  TA focale
+  TA multifocală
+  TA prin macro-reintrare (flutter)
+       Flutter istmodependent
+               Tipic: antiorar sau orar
+               Alte fluttere istmodependente
+       Flutter non-istmodependent
+               Atrial drept
+               Atrial stg
+  Fibrilaţie atrială (FA)
+ Tahicardii ale joncţiunii AV
+  Tahicardie prin reintrare intranodală: lent-rapidă/ rapid-lentă/ lent-lentă
+  Tahicardie joncţională non-reintrantă – joncţională ectopică
+ Tahicardie prin reintrare atrioventriculară
+         Ortodromică
+         Antidromică
+
+
+
+
+                                                           163
+

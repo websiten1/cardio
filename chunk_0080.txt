@@ -1,0 +1,54 @@
+ritmuri active cu frecvenţa mai mare decât ritmul sinual (RS). Automatismul este scăzut de activarea
+sistemului nervos parasimpatic (care creşte IKAch -deci hiperpolarizează membrana- şi scade AMPc)
+şi crescut de sistemul nervos simpatic (care creşte AMPc). Acţiunea AMPc se explică prin
+proprietatea acestuia de a creşte curentul ICaL şi activitatea exchanger-ului Na+-Ca2+. Automatismul
+este crescut de hipoxie, hipokaliemie şi ischemie, care cresc panta fazei 4 prin scăderea activitaţii
+pompei Na+-K+ (care e repolarizantă). Automatismul normal suferă fenomenul de supresie prin
+overdriving: reluarea mai lentă a frecvenţei de depolarizare a focarului după ce acesta a fost descărcat
+cu o frecvenţă mai mare decat frecvenţa proprie. Exemplele clinice de aritmii prin acest mecanism
+sunt: tahicardia sinusală, tahicardii atriale, tahicardiile joncţionale (ca de exemplu în intoxicaţia
+digitalică), tahicardia ventriculară ( TV) din faza subacută a IM şi extrasistolele ventriculare (ESV)
+care se produc prin parasistolie în ţesutul Purkinje ischemic. Parasistolia este un fenomen care
+presupune existenţa a 2 focare (de exemplu cel sinusal şi cel patologic), protecţia focarul patologic
+de a fi descărcat de depolarizari externe (prin bloc de intrare) şi posibilitatea acestui de a genera
+depolarizari proprii (lipsa blocului de iesire). Un exemplu de manifestare a parasistoliei este cel al
+unor ESV care nu au interval de cuplaj fix (cu complexul QRS precedent) dar prezintă între ele
+intervale care sunt multipli ai unui divizor comun (lungimea de ciclu a ritmului de descărcare a
+focarului)
+        Automatism anormal sau automatism indus de depolarizare. Acest mecanism presupune
+generarea de PA din celule parţial depolarizate (potenţialul diastolic maxim este mai puţin negativ)
+printr-un proces patologic, de exemplu prin ischemie, şi a fost demonstrat pentru miocard şi HP.
+Potenţialele la care apar depolarizarile patologice sunt, pentru celulele miocardice, în zone de -30- -
+70 mV şi pentru celulele HP în zona -60mV. În majoritatea cazurilor, PA apar la potenţiale la care
+depolarizarea nu se mai face prin INa deci medicamentele de clasă I nu au efect. Mecanismele
+implicate sunt de mai multe tipuri: anomalii în deactivarea canalelor de K+, eliberare de Ca2+ din RES,
+influx de Na+ prin Na+-Ca2+ exchanger etc. De obicei, aritmiile care apar prin acest tip de automatism
+nu au supresie prin overdriving. Frecvenţa tahicardiilor este în funcţie de potenţialul de membrană
+(cu cât acesta este mai pozitiv, cu atât aritmiile sunt mai rapide) şi de principiu este mai mare decât a
+celor prin automatism normal crescut. Aritmogeneza este favorizată de ischemie, hipoxie,
+hiperkaliemie acidoză, hipercatecolaminemie. Exemplele clinice sunt: ritmul idioventricular accelerat
+(RIVA) şi tahicardia ventriculară (TV) din faza acută a IM, unele tahicardii atriale focale, tahicardiile
+din hiperkaliemie şi hipercatecolaminemie.
+        Activitate declanşată (triggered activity) Activitatea declanşată este reprezentată de generarea
+de PA prin postdepolarizări (postpotenţiale): oscilaţii de potenţial de membrană care apar în timpul
+sau imediat după un PA, deci PA anormale sunt cauzate de un PA prealabil, spre deosebire de cele
+descrise mai sus (prin automatism). Există două tipuri de postpotenţiale: precoce şi tardive.
+     Postdepolarizările precoce sunt depolarizări secundare care apar pe membrana incomplet
+repolarizată. Mecanismele ionice sunt: scăderea curenţilor de K+, creşterea curentului lent de Ca2+,
+creşterea activităţii exchanger-ului Na+- Ca2+ şi creşterea unui curent de Na+ lent. În faza 2 PA apar
+prin Ca2+, se propagă mai greu, dar pot să favorizeze aritmii prin inomogenitatea repolarizării, deci
+prin crearea de condiţii pentru reintrare. În faza 3 PA anormale apar prin curenti de Na+ şi se pot
+propaga mai uşor. Oscilaţiile apar de obicei în zone cum sunt reţeaua Purkinje şi straturile medii ale
+miocardului. Acest mecanism este activ mai ales în ţesuturi afectate de un proces patologic şi/ sau în
+condiţii favorizante: ischemie, stretch mecanic -ca în hipertrofia ventriculară stânga (HVS) şi
+insuficienţa cardiacă (IC), hipokaliemie, hipoxie, acidoză şi tratament cu medicamente care cresc
+intervalul QT, este favorizat de bradicardie (care creşte amplitudinea PA patologice), şi inhibat de
+tahicardie. Aritmiile care se produc prin aceste mecanisme sunt extrasistole sau tahicardii iar
+mecanismele sunt reintrarea sau propagarea PA anormale. Exemplele clinice de tahicardii sunt:
+torsada de vârfuri (cel mai tipic, vezi figura 2) şi aritmiile de reperfuzie.
+
+
+
+
+                                                  150
+

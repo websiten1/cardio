@@ -1,0 +1,43 @@
+                                            Tabelul 7. Medicamentele de clasă IV
+ Medicament      Doze                         Indicații              Contraindicații        Efecte adverse
+ VERAPAMIL       IV 2,5-10 mg IV în 5         TPSV                   BAV 2,3                Cardiace: bradicardie,
+                 min, PO 80-480 mg/zi         Controlul frecvenţei   BNS                    blocuri, rar asistolă,
+                 per os, în 1-2 prize fct     în FA, FlA             IC cu FEVS scăzută     agravare IC
+                 de prezentare                                       Tahicardia cu          Hipotensiune arterială
+                                                                     complexe largi WPW     Edeme periferice
+                                                                     Scădere doze în boli   Digestive
+                                                                     hepatice, renale
+ DILTIAZEM       IV rar                       TPSV                   ~verapamil             ~verapamil
+                 PO 180-360 mg/zi, în         Controlul frecvenţei
+                 1-2-3 prize fct. de          în FA, FlA
+                 prezentare
+
+Medicamente care nu sunt cuprinse în clasificarea Vaughan-Williams
+        Digoxina este unul dintre cele mai vechi medicamente care acţionează asupra sistemului
+cardiovascular. Este un inhibitor al Na+-K+ ATP-azei , cu efect inotrop-pozitiv şi dromotrop-negativ.
+În practică, astăzi mai este folosit ca antiaritmic în controlul frecvenţei FA și FlA permanente (şi
+acolo fiind linia 2 dupa betablocante/ calciu-blocante non-dihidropiridinice). Dozele mari (nivel de
+digoxinemie ridicat) se asociază cu creşterea mortalităţii, astfel trebuie administrată cu precauţie la
+vârstnici, pacienţi cu boală renală cronică şi cu atenţie la evitarea hipoK (care accentuează efectul în
+intoxicaţia digitalică). Nu este eficientă în administrare acută (timp de instalare lung) şi în context de
+hiperstimulare adrenergică. Doza uzuală IV este de 0.5 mg IV, iar p.o. 0.0625 - 0.25 mg/zi. Efectele
+adverse includ: bradicardii, blocuri AV, tahicardii cu mecanism focal (tahicardie joncţională ectopică,
+TV focală/ bidirecţională), greaţă, vărsături, tulburări de vedere, confuzie.
+        Adenozina este un nucleozid purinic, care are un timp de înjumătăţire foarte scurt (~ 10
+secunde). Se administrează IV în bolus rapid, urmat de “flush” salin. Are rolul de a bloca tranzitor
+NAV, astfel, poate opri (dacă este eficace) aritmii prin reintrare dependente de NAV. Uneori (~15%)
+opreşte tahicardii atriale focale. Nu opreşte macroreintrări atriale (fluttere), dar prin blocarea NAV
+poate demasca undele de flutter şi deci poate facilita diagnosticul aritmiei. Doza uzuală iniţială este
+de 6 mg; dacă nu este eficace se repetă cu doză mai mare (până la 18 mg). Este contraindicată în
+astmul sever. În timpul administrării, pacientul poate resimţi presiune toracică, flushing, ameţeală.
+Adenozina poate fi administrată şi la femeile gravide.
+        Ivabradina este un blocant selectiv al curentului If scazând frecvenţa de descărcare a NSA
+prin efect direct. Este utilă mai ales in tahicardia sinusală, mai rar în tahicardiile atriale focale şi este
+utilizată de regulă în combinaţie cu BB. Ivabradina este contraindicată în sarcină, la femeile care
+alaptează şi în afectiuni hepatice severe. Doza uzuală este 10-15 mg/zi în 2 prize.
+
+
+
+
+                                                           160
+

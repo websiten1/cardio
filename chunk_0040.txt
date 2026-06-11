@@ -1,0 +1,54 @@
+        Stenoza aortică este considerată strânsă la o velocitate maximă a fluxului de stenoză de peste
+4 m/sec, la un gradient mediu peste 40 mm Hg şi la o arie a valvei aortice sub 1cm², sau sub 0.6 cm²/
+m² sc. Debitul scăzut este arbitrar definit ca valoarea volumului bătaie indexat (SVi) ≤ 35 ml/𝑚2 .
+        Astfel, se pot defini 4 categorii de stenoză aortică:
+     Stenoza aortică cu gradient crescut (gradient mediu ≥40 mmHg, v max ≥4 m/s, AVA ≤1 𝑐𝑚2
+        sau 0.6 cm²/ m²): Se poate considera că stenoza aortică este severă indiferent de funcția VS și
+        de debitul cardiac.
+     Stenoza aortică cu debit scăzut, gradient scăzut și fracție de ejecție redusă (gradient mediu
+        ≤40 mmHg, AVA ≤1 𝑐𝑚2 , FEVS ≤50%, SVi≤ 35 ml/𝑚2 ). Ecocardiografia de stres cu doze
+        reduse de dobutamină este recomandată pentru diferențierea dintre stenoza aortică severă, de
+        cea pseudoseveră (creșterea AVA ≥ 1 𝑐𝑚2 odată cu normalizarea fluxului). În plus, prezența
+        rezervei contractile (creșterea debitului bătaie cu ≥ 20%) are implicații prognostice fiind
+        asociată cu un rezultat mai bun.
+     Stenoza aortică cu debit scăzut, gradient scăzut și fracție de ejecție prezervată (gradient
+        mediu ≤40 mmHg, AVA ≤1 𝑐𝑚2 , FEVS ≥50%, SVi≤ 35 ml/𝑚2 ): Tipic este întâlnită la
+        hipertensivi, cu dimensiuni mici ale VS și hipertrofie marcată. Diagnosticul de stenoză aortică
+        severă este dificil și necesită o excludere atentă a erorilor de măsurare sau a altor motive
+        pentru aceste rezultate ecocardiografice. Gradul de calcificare a valvei, cuantificat prin
+        tomografia computerizată multislice este corelat cu severitatea stenozei.
+     Stenoza aortică cu debit normal, cu gradient scăzut, cu fracție de ejecție prezervată (gradient
+        mediu ≤40 mmHg, AVA ≤1 𝑐𝑚2 , FEVS ≥50%, SVi ≥ 35 ml/𝑚2 ): Acești pacienți vor avea doar
+        stenoză aortică moderată.
+        Ecocardiografia transesofagiană poate fi utilă în aprecierea morfologiei valvulare, în
+măsurarea cu acurateţe a tractului de ejecţie al VS, în evaluarea bolii mitrale concomitente, măsurarea
+aortei ascendente și poate fi de valoare în evaluarea imagistică periprocedurală.
+        Ecocardiografia de stress oferă informații prognostice adiționale prin evaluarea creșterii
+gradientului mediu și a modificării funcției VS.
+        Tomografia computerizată, eventual cu reconstrucții 3D, conferă informații despre
+anatomia arcului aortic și a aortei ascendente, asupra distribuției și extensiei calcificărilor la nivel
+valvular și vascular precum și asupra fezabilității accesului vascular. Prin cuantificarea calcificărilor
+valvulare se poate prezice progresia bolii și apariția evenimentelor nefavorabile, iar atunci când este
+combinată cu geometria valvulară este utilă în evaluarea severității stenozei aortice la pacienții cu
+gradient scăzut.
+        Rezonanţă magnetică nucleară ar putea fi utilizată în cazurile în care fereastra
+ecocardiografică este inadecvată şi nu sunt disponibile alte investigaţii paraclinice hotărâtoare pentru
+evaluarea şi managementul acestor pacienţi. Fibroza miocardică este un factor important în apariția
+decompensarii VS în stenoza aortică (indiferent de prezența sau absența bolii coronariene ischemice)
+și poate fi evaluată prin RMN cardiac. Amiloidoza, de asemenea este destul de frecvent asociată cu
+stenoza aortică la pacienții vârstnici, iar atunci când este suspectată, examenul RMN trebuie
+considerat. Ambele entități persistă după înlocuirea valvulară și au un prognostic rezervat.
+        Coronarografia este esențială înainte de TAVI sau înlocuirea chirurgicală a valvei aortice
+pentru cunoaşterea anatomiei arterelor coronare, pentru stratificarea riscului şi stabilirea indicaţiei de
+revascularizare miocardică concomitente dacă este necesară.
+        Cateterismul cardiac nu se recomandă de rutină în stenoza aortică, ecocardiografia fiind în
+general suficientă. Se poate apela la această metodă invazivă de diagnostic atunci când există o
+discrepanţă mare între datele clinice şi cele paraclinice, sau când acestea din urmă sunt neconcludente.
+        Trebuie menţionat şi faptul că, în caz de cateterizare retrogradă a unei valve aortice intens
+calcificate, pentru determinarea presiunilor şi a debitului cardiac, riscul de leziuni cerebrale ischemice
+este de până la 22%, motiv pentru care această procedură ar trebui evitată în astfel de situaţii.
+
+
+
+                                                   110
+

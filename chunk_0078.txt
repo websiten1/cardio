@@ -1,0 +1,55 @@
+profund decât NAV pe partea dreaptă a SIV şi este mai puţin expus la bloc AV iatrogen în procedurile
+de ablaţie de la nivelul cordului drept. În ultimii ani s-au dezvoltat metode de stimulare cardiacă
+permanentă din aceasta zonă ca alternativă la stimularea clasică din ventriculul drept (VD), ceea ce
+asigură o un pattern mai fiziologic de activare ventriculară.
+        Clasic, FH se împarte în două ramuri (drept şi stâng) dar anatomic numai ramul drept este
+individualizat, ramul stâng fiind arborizat în două teritorii mari: antero-superior şi postero-inferior; în
+mod secundar fibre din aceste două teritorii mari participă şi la formarea celui de-al treilea teritoriu,
+septal. Cele trei teritorii sunt interconectate. Ramul drept se continuă pe partea dreapta a SIV din dreptul
+muşchiului papilar septal, pe trabecula septomarginală şi, în majoritatea cazurilor, traversează banda
+moderatoare şi se arborizează în peretele liber la nivelul pilierului tricuspidian anterior.
+        Conducerea în sistemul His-Purkinje, (HP) ca şi cea de la nivelul miocardului atrial şi
+ventricular, este rapidă, intrucât toate sunt structuri cu potenţial de acţiune dependent de curentul
+rapid de sodiu (vezi mai jos).
+
+9.3. Potenţialul de acţiune
+         Miocardul este compus din miocite şi non-miocite (fibroblaşti, celulele vaselor, cele din
+plexurile ganglionate etc). Miocitele, reprezentate de celule musculare şi celule specializate, sunt
+izolate prin membrana celulară, comunicand însă între ele prin joncţiunile intercelulare. Toate celulele
+de acest fel sunt excitabile în sensul că răspund printr-un potenţial de acţiune (PA) atunci când le este
+aplicat un curent. PA apare prin trafic de ioni, în principal de Na+, K+, Ca2+ care traversează membrana
+prin 3 mecanisme: prin canale ionice (în funcţie de concentraţie şi gradiente), prin pompe ionice
+(contra gradientelor, mecanism activ) şi prin exchangeri (care folosesc gradientul electrochimic al
+unui ion pentru a transporta altul). Curenţii sunt diferiţi ca şi importanţă în celule diferite şi în
+consecinţă există diferenţe regionale ale PA la nivele diferite (NSA, atrial, NAV, ventricular, HP sau
+chiar în diferite straturi ale miocardului ventricular, respectiv în regiuni diferite ale aceluiaşi ventricul.
+Canalele ionice sunt membranare şi joncţionale. Canalele membranare sunt de mai multe tipuri: voltaj
+dependente (deschiderea depinde de un anumit voltaj), ligand dependente (deschiderea depinde de
+prezenţa unei substanţe) și strech- dependente (deschiderea depinde de deformarea membranei) .
+Canalele joncţionale (care asigură propagarea intercelulară a impulsurilor) sunt sensibile atât la voltaj
+cât şi la prezenţa unor substanţe, de exemplu acetilcolina. Canalele ionice membranare au două
+proprietăţi: deschidere în funcţie de un stimul (gating) (vezi mai sus) şi respectiv selectivitate şi au
+trei stări: deschisă, închisă şi inactivată . Cea mai importantă pompă este Na+-K+ATP-aza al cărei rol
+principal este menţinerea gradientelor electrice în repaus, fiind unidirecţională şi repolarizantă (scoate
+3 ioni de Na+ pentru 2 de K+). Cel mai important exchanger este Na+-Ca2+ al cărui rol principal este
+de a menţine nivelul Ca2+ intracelular la nivel normal; prin acest exchanger curentul este posibil în
+ambele direcţii, în principal fiind depolarizant (când introduce trei ioni de Na+ şi scoate un ion de
+Ca2+).La modul general, din punct de vedere electrofiziologic, depolarizarea se face prin transfer de
+Na+ sau Ca2+, repolarizarea prin transfer de K+ iar PA se împart în funcţie de curentul depolarizant în:
+PA de tip răspuns rapid (dependente de curentul rapid de Na+) şi PA de tip răspuns lent (dependente
+de curentul lent de Ca2+). PA cu răspuns lent există în NSA şi NAV iar PA cu răspuns rapid există în
+miocardul atrial, ventricular şi în His-Purkinje.
+         În continuare este descris PA al unei celule dependente de curentul rapid de Na+. În faza 0,
+curentul cel mai important este curentul rapid de sodiu (INa) care permite intrarea Na+ în celulă
+conform gradientului electrochimic prin canalele de sodiu voltaj dependente (care se deschid când
+membrana este adusă la potenţialul prag). Deschiderea acestor canale se face pe o perioadă scurtă (1
+milisecundă). Faza 0 permite o creştere rapidă a potenţialului de membrană de ordinul a 500 V/sec,
+aceasta ajungând la valori pozitive (de la -95mV la +40 mV). La sfârşitul acestei faze canalele de Na+
+se inactivează.În faza 1 (repolarizarea precoce rapidă , cu durata de 10 ms) domină curenţii de iesire,
+cel mai important fiind curentul tranzitor de K+ (Ito), care are 2 componente: rapidă şi lentă (Ito,f şi
+Ito,s). Acest curent are o distributie heterogenă , fiind prezent în miocardul ventricular în zone cu PA
+scurt (straturile subepicardice în VS, în VD şi în SIV), şi este responsabil de o heterogenitate a PA în
+această fază. Ito este maxim în faza 1 şi scade progresiv în fazele 2 şi 3, în 25-80 ms pentru componenta
+
+                                                    148
+

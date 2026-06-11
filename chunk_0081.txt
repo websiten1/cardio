@@ -1,0 +1,38 @@
+        Figura 2. Torsada vârfurilor. Se observă apariţia, pe un fond bradicardic, a unei tahicardii polimorfe
+               cu aspect special dat de inversarea periodică a polaritaţii unei serii de complexe QRS
+
+         Postdepolarizările tardive sunt depolarizări secundare care apar după ce membrana a fost
+complet repolarizată. Se produc printr-un curent tranzitor, Iti, care apare în supraîncărcarea celulară
+în calciu. Bazele ionice ale curentului Iti sunt reprezentate probabil de curenţi de Ca2+ sau de
+exchangerul Na+-Ca2+. Supraîncărcarea celulară cu Ca2+ poate avea mai multe cauze, ca de exemplu
+ischemia (când pot exista eliberări spontane de Ca2+ din RES), stimularea adrenergică (prin activarea
+ICaL şi a exchangerului Na+-Ca2+), inhibarea Na+-K+ ATP-azei prin digitală (care supraîncarcă celula
+în Na+, schimbat de exchanger-ul Na+-Ca2+ cu Ca2+), anomalii ale canalului denumit “receptor de
+rianodină” (acesta este canalul prin care Ca2+ circulă în şi dinspre RES), anomalii ale calsequestrinei,
+(proteina prin care Ca2+ este reţinut în RES- care este principalul “rezervor” intracelular de Ca2+).
+Exemple clinice sunt: aritmii din ischemie, din intoxicaţia digitalică, aritmiile catecolergic-
+dependente şi cele din tahicardia catecolergică familială (sindrom caracterizat de anomalii în
+mecanismul de eliberare şi de reţinere a Ca2+ în RES).
+Anomaliile conducerii impulsurilor
+        Conducere lentă şi bloc fără reintrare.Viteza de propagare a impulsurilor electrice depinde
+mai mulţi factori. Pentru velocitatea la nivel celular sunt importante: intensitatea curentului de Na+,
+respectiv Ca2+ şi viteza cu care se atinge voltajul maxim al fazei 0, care la rândul lor depind de
+numărul de canale deschise, în legătură directă cu potenţialul de membrană (cu cât este mai puţin
+negativ, cu atât acestea sunt mai puţine şi viteza este mai mică). Cel mai frecvent, impulsurile sunt
+blocate când ajung la o zonă care se găseşte în perioada refractară. În acest caz, impulsul nu va fi
+condus sau va fi condus întârziat; exemplul tipic este blocul de ramură dreaptă care apare tranzitor în
+tahiaritmii supraventriculare (ramul drept având perioada refractară mai mare decât ramul stâng este
+mai susceptibil să fie “surprins” în perioada refractară când impulsurile sunt rapide). În afara acestui
+mecanism, un influx poate fi intârziat prin propagare discontinuă datorită orientării diferite a fibrelor
+faţă de direcţia influxului, prin modificări ale concentraţiei intratisulare de ioni, prin influenţe ale
+sistemului nervos vegetativ (SNV) şi prin modificări degenerative. Consecinţele blocului sunt:
+scăderea vitezei de conducere sau blocul parţial/complet în aval, cu ritm de scăpare mai lent şi uneori
+cu asistolă prelungită la instalarea blocului, mai ales când acesta apare la vârstnici şi/sau în ţesutul
+subhisian, adică atunci când ritmul de scăpare poate să apară cu întârziere.
+        Reintrarea. Când excitarea inimii se face normal, impulsul ia naştere în nodul sinusal şi trece
+prin miocard rapid şi uniform, toate zonele fiind depolarizate printr-un front unic, recuperarea
+începând tot uniform printr-un front unic. Când însă în unele zone există o întârziere, aceasta zonă
+rămâne depolarizată şi eventual în anumite condiţii poate depolariza la rândul ei alte zone care s-au
+recuperat după depolarizarea precedentă. Acest fenomen se numeşte reintrare sau bătaie reciprocă şi
+                                                        151
+

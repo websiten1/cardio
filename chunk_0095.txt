@@ -1,0 +1,50 @@
+Clinic
+        TS inadecvată apare cvasi-exclusiv la femei de vârstă medie (30-50 ani) şi este frecvent
+asociată cu hipertensiunea arterială. Simptomele, atunci cand există, apar în tahicardie şi nu şi în RS
+la acelaşi pacient şi sunt reprezentate de: palpitaţii regulate, oboseală/ intoleranţă la efort, dureri
+toracice atipice pentru angină, ameţeli (până la presincopă).
+
+Paraclinic
+        La EKG se înregistrează tahicardie cu P sinusale iar la înregistrarea Holter tahicardie de fond
+diurnă (> 95-100/min) cu accelerari bruşte la efort.
+        La testul de efort se pune în evidenţă o accelerare rapidă şi excesivă (>130/min în 90 sec).
+Tratamentul TS inadecvate este exclusiv simptomatic; uneori nu este necesar, iar cand e necesar,
+poate fi dificil. De primă intenţie sunt eliminarea cauzelor reversibile şi măsurile igieno-dietetice ca
+antrenamentul fizic, hidratarea şi evitarea substanţelor tahicardizante. Când sunt necesare
+medicamente, se indică BB sau ivabradina -utilizată de obicei în asociaţie cu BB. Când acestea nu
+sunt eficace, se pot utiliza BCa. Uneori pentru controlul simptomelor sunt necesare doze mari de BB
+sau BCa, care nu sunt tolerate datorită efectelor secundare. Când medicamentele nu sunt eficiente, se
+poate indica ablaţie cu RF care însă nu are rezultate foarte bune în aceasta indicaţie intrucât pe de-o
+parte se poate induce disfuncţie sinusală post procedurală şi, pe de alta parte, frecvent tahicardia
+recidivează. Excepţional se poate indica denervarea simpatică.
+
+9.12. Tahicardia prin reintrare parasinusală
+Definiţie
+       Tahicardia prin reintrare parasinusală este un ritm cardiac > 100/min cu origine în zona NSA.
+
+Mecanism
+     Mecanismul este reprezentat de reintrări localizate care implică şi porţiuni din nodul sinusal.
+
+Clinic
+        Afecţiunea evoluează sub un mod paroxistic, cu început şi sfârşit bruşte (spre deosebire de
+TS. În criză pacienţii pot prezenta palpitaţii şi semne de debit cerebral scăzut.
+
+Paraclinic
+       EKG se evidenţiază unde P cu morfologie asemănătoare P sinusale.
+       La Holter se pot înregistra episoadele de tahicardie cu început şi sfârşit bruşte.
+       La studiul electrofiziologic tahicardia poate fi declanşată prin stimulare programată.
+
+Tratament
+      Tratamentul medicamentos este empiric iar experienţa este limitată. Au fost utilizate: BCa şi
+amiodarona cu rezultate uneori favorabile. BB sunt ineficiente. Ablaţia cu RF ghidată de sisteme de
+mapping electroanatomic este eficientă în unele cazuri.
+
+9.13. Tahicardia atrială focală
+Definiţie, generalităţi
+        Tahicardiile atriale (TA) focale sunt definite ca aritmii cu o frecvenţă > 100/min, cu origine
+într-o zonă restrânsă din atrii, convenţional mai mică de 2 cm2, situată în afara nodului NSA sau a NAV.
+În TA propagarea se face centrifug şi discontinuu, atriile fiind activate numai pe o perioada scurtă a
+ciclului, spre deosebire de macroreintrări. Focarele au originea mai frecvent în AD şi uneori pot fi
+
+                                                  165
+

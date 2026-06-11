@@ -1,0 +1,64 @@
+            Criteriul major imagistic poate fi reprezentat și de activitatea inflamatorie anormală în jurul
+     protezei, decelată prin 18F-FDG (18 fluorodeoxiglucoză) PET/CT pentru proteze implantate cu mai
+     mult de 3 luni înainte sau leucocite marcate radioactiv la SPECT/CT, precum și decelarea leziunilor
+     paravalvulare la examenul CT cardiac.
+     Hemoculturi
+             Hemoculturile constituie al doilea criteriu major de diagnostic. Este foarte importantă identificarea
+     agentului cauzal pentru un tratament adecvat. Ideal este ca hemoculturile să se recolteze la 5 zile de la
+     întreruperea unui tratament antibiotic de scurtă durată și minim 7 zile de la întreruperea unui tratament
+     antibiotic de lungă durată. Se vor recolta minim 3 hemoculturi la interval de o oră una de cealalată și se
+     vor însămânța atât pe mediu pentru aerobi cât și pentru anaerobi. În cazurile cu hemoculturi negative se
+     pot face teste serologice speciale, culturi celulare sau teste de amplificare genică.
+             În cazul germenilor cunoscuți a produce endocardită infecțioasă sunt suficiente 2 hemoculturi
+     pozitive pentru acel agent patogen (ex: streptococ de grup D, stafilococ).
+                        Tabelul 2. Criteriile Duke modificate pentru diagnosticul endocarditei infecțioase
+      Hemoculturi pozitive
+a.     Identificarea unui microorganism tipic pentru endocardita infecțioasă în două hemoculturi diferite
+                        o Streptococi viridians, streptococcus bovis, grupul HACEK, stafilococ auriu, enterococi în absența
+                                  unui focar primar
+                        o Enterococi cu originea în comunitate, în absența unui alt focar
+b.     Identificarea unui microorganism care ar putea determina endocardită în hemoculturi persistent pozitive
+                        o Cel puțin 2 hemoculturi pozitive recoltate la interval mai mare de 12 ore, sau
+                        o Toate 3 sau o majoritate din cel puțin 4 hemoculturi separate (prima și ultima recoltate la cel puțin
+                        la o ora distanță), sau
+c.    Identificarea într-o singură hemocultură a Coxiella burnetti sau un titru de anticorpi de faza I IgG mai mare de 1:800.
+      Imagistică pozitivă pentru endocardită infecțioasă
+            Ecocardiografie pozitivă pentru endocardită infecțioasă
+                      i. Vegetație
+                     ii. Abces, pseudoanevrism, fistule intracardiace
+                    iii. Perforație valvulară sau anevrism
+                    iv. Dehiscență nou diagnosticată, parțială a protezei
+            Activitate anormală în jurul protezei decelată prin 18F-FDG PET/CT (pentru proteze implantate cu mai mult
+                de 3 luni înainte) sau leucocite marcate radioactiv la SPECT/CT.
+            Leziuni paravalvulare la examenul CT cardiac.
+      Criterii minore
+          Prezența condiției favorizante: condiții favorizante cardiace, consumatori de droguri intravenoase
+          Febra: temperatură peste 38C
+          Fenomene vasculare (inclusiv cele diagnosticate imagistic): embolii arteriale majore, infarcte pulmonare septice,
+      anevrisme micotice, hemoragii intracraniene, hemoragii conjunctivale, leziuni Janeway
+          Fenomene imunologice: glomerulonefrită, noduli Osler, pete Roth, factor reumatoid prezent
+         Evidențe microbiologice: hemoculturi pozitive, care nu se califică pentru criteriu major sau evidențe serologice de
+      infecție activă cu un microorganism cunoscut că poate determina endocardită
+
+                                            Tabelul 3. Diagnosticul endocarditei infecțioase
+      Diagnostic cert de endocardită
+      Criterii anatomopatologice
+      Microorganism evidențiat prin cultură sau examinarea histologică a unei vegetații, a unei vegetații
+      embolizate sau a unui abces intracardiac
+      Vegetație sau abces intracardiac confirmat la examanul histologic ca endocardită activă
+      Criterii clinice
+      2 criterii majore
+      1 criteriu major și 3 criterii minore
+      5 criterii minore
+      Diagnostic posibil de endocardită
+      1 criteriu major și 1 criteriu minor
+      3 criterii minore
+      Endocardita infecțioasă infirmată
+      Diagnostic alternativ ferm
+      Rezoluția simptomelor sub antibioterapie în mai puțin de 4 zile
+      Fără evidențe anatomopatologice de endocardită la chirurgie sau autopsie, după mai puțin de 4 zile
+      de tratament antibiotic
+      Nu îndeplinește criteriile de endocardită posibilă
+
+                                                                141
+

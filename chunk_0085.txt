@@ -1,0 +1,58 @@
+ III                         PRE      DPA,        ca     efect     principal    Amiodarona, Dronedarona
+ Blocante canale de K        ( excitabilitatea)                                  Sotalol
+                             Majoritatea au şi efecte din alte clase              Ibutilid, Vernakalant
+ IV                           faza 0,  durata fazei 4 în NSA şi NAV             Verapamil
+ Blocante canale de Ca2+     (automatismul şi conducerea )                       Diltiazem
+
+PRE = perioada refractară efectivă, DPA = durata potenţialului de acţiune
+Medicamentele de clasa I au ca principal mecanism de acţiune blocarea canalelor rapide de Na+ şi se
+clasifică după cinetica de instalare a legării/disocierii de receptori: Ia cinetică intermediară, Ib cinetică
+rapidă, Ic cinetică lentă. Gradul încetinirii conducerii pentru fiecare clasă este direct proporţional cu
+gradul cineticii şi explică de asemenea şi efectele diferite ale acestor clase în tahicardie (la ritmuri rapide
+medicamentul are mai puţin timp să se disocieze de receptori şi efectul este cu atât mai evident cu cât
+cinetica este mai lentă). Clasa Ic are deci cele mai marcate efecte de scădere a conducerii în tahicardie,
+clasa Ia este intermediară iar pentru clasa Ib efectul este minim/absent. Hiperkaliemia, acidoza şi
+ischemia scad cinetica şi cresc efectele medicamentelor de clasa I.
+        Medicamentele de clasă Ia scad moderat conducerea (scad panta fazei 0) şi au ca efect
+“secundar” şi blocarea canelelor de K deci, spre deosebire de alte medicamente de clasa I, cresc
+moderat DPA prin creşterea PRE. Ele sunt moderat active în aritmii atriale şi ventriculare, dar de
+asemenea moderat aritmogene şi cu efecte secundare extracardiace importante, inclusiv
+hemodinamice: sunt inotrop-negative şi produc vasodilataţie şi tahicardie reflexă prin blocarea
+receptorilor α. În prezent nu se mai folosesc în practică decât în cazuri excepţionale, cum este
+exemplul chinidinei utilizată în sindromul Brugada, sindromul de repolarizare precoce, sindromul de
+QT scurt şi în fibrilaţia (FV) primară (aceste boli fac parte din grupul canalopatiilor ereditare).
+                                          Tabelul 2. Medicamentele de clasă Ia.
+ Medicament           Doze                  Indicaţii          Contraindicaţii     Efecte adverse
+ CHINIDINA            600-1600 mg/zi,       ESA                BAV 2, 3            Digestive: greţuri, diaree
+                      în 4 prize (sulfat)   TA                 BNS                 Hipersensibilizare (trombopenie
+                                            FA                 LQTS                anemie hemolitică, sindrom lupus-
+                                            Sdr Brugada        Boala cardiacă      like)
+                                            Sdr de             structurală         Vasodilataţie
+                                            repolarizare       semnificativă       Cardiace: inotrop negativ, blocuri,
+                                            precoce            Infarct             efecte proaritmice: torsadă, TV prin
+                                            FV idiopatică      miocardic in        reintrări,   agravarea     disfuncţiei
+                                            SQTS               antecedente         sinusale
+ PROCAINAMIDA         1,5-4 g/zi în 2-4     TA, FlA, FA        BAV 2,3             Sindrom lupus-like
+                      prize                 ESV, TV            BNS                 Agranulocitoză
+                                            !!!WPW             Bloc de ram         Rash
+                                                               Disfunctie          Mialgii
+                                                               severă VS           Vasculită
+                                                               Sdr Brugada         Cardiace: ~chinidina.
+ DISOPIRAMIDA         400-800 mg/zi, în     Indicată           ~chinidina.         Inotrop negativ, proaritmic
+                      3 prize (preparate    foarte rar                             Efecte anticolinergice
+                      cu        acţiune.    (creşte
+                      rapidă)               mortalitatea) :
+                                            Posibil utilă în
+                                            FA vagală la
+                                            atleţi, FA in
+                                            CMH
+     ESA = extrasístole atriale TA = Tahicardie atrială BNS= Boala de nod sinusal
+LQTS=sindrom de QT lung SQTS= sindrom de QT scurt congenital Fl A=flutter atrial
+CMH=cardiomiopatie hipertrofică BAV=bloc atrioventricuolar VS=ventricul stâng
+
+        Medicamentele de clasa Ib inhibă canalele de Na+şi au ca şi caracteristică scăderea DPA prin
+scăderea duratei platoului, efectul principal fiind de scădere a postpotenţialelor precoce. Datorită
+cineticii rapide, în condiţii normale, la frecvenţe normale, nu scad conducerea, dar îşi pot manifesta
+acest efect în hiperpotasemie sau în acidoză. Întrucât PA al miocardului atrial este deja scurt, scurtarea
+                                                            155
+

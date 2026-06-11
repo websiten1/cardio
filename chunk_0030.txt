@@ -1,0 +1,54 @@
+IM cronică
+       1. Farmacologic
+- administrare de anticoagulante orale (NOAC sau AVK), digitală/betablocant pentru pacienții aflați
+  în fibrilație atrială
+- administrare de diuretice de ansă și vasodilatatoare (inhibitorii enzimei de conversie a
+  angiotensinei/inhibitorii receptorilor de angiotensină) pentru pacienții cu insuficiență cardiacă
+       2. Intervențional percutan
+IM severă primară
+- repararea mitrală transcateter se practică la pacienții simptomatici care îndeplinesc criteriile
+  ecocardiografice de eligibilitate, considerați inoperabili sau cu risc chirurgical crescut
+IM severă secundară
+- la pacienții simptomatici, neeligibili pentru chirurgie, se efectuează angioplastie coronariană
+  percutană (și/sau implant transcateter percutan de valvă aortică) urmată de repararea mitrală
+  transcateter
+       3. Chirurgical
+IM severă primară
+Indicații:
+   - pacienţi simptomatici care sunt operabili și nu au risc crescut
+   - pacienţii asimptomatici cu funcţie VS pãstratã (fracție de ejecție a VS - FEVS > 60%),
+       diametrul telesistolic VS (DTSVS) < 40 mm şi fibrilaţie atrialã secundară IM sau HTAP
+       (PAP în repaus > 50 mmHg)
+   - pacienţi asimptomatici cu risc scăzut (FEVS > 60%, DTSVS < 40 mm) și dilatare
+       semnificativă de AS (volum indexat  60 ml/m2 sau diametru  55 mm)
+   - pacienţi asimptomatici cu disfuncţie VS ( FEVS 60%) și DTSVS  40 mm
+IM severă secundară
+   - pacienți care rămân simptomatici în ciuda terapiei medicamentoase indicată în ghiduri
+       (inclusiv resincronizarea cardiacă)
+   - pacienţi care vor efectua bypass aorto-coronarian sau altă intervenție chirurgicală cardiacă
+   Se poate face prin plastie reconstructiva sau inlocuire valvulara.
+            Plastia reconstructiva: - reprezinta solutia chirurgicala ideala,
+                                       - asociata cu morbi-mortalitate si risc de endocardita
+                                          infectioasa mai scazute decat inlocuirea valvulara
+                                       - respecta aparatul subvalvular
+                                       - disfunctia de VS postoperator este mai mica decat in cazul
+                                          protezarii valvulare
+            Înlocuirea valvulara:- se practică mai ales cand aparatul valvular și subvalvular sunt
+               intens remaniate
+                                       - utilizeaza proteze mecanice sau biologice
+                                       - protezele mecanice: au durata mai lungă de viață, impun
+                                          tratament anticoagulant permanent, sunt mai frecvent
+                                          utilizate atunci cand pacintul asociază patologie cu indicație
+                                          de anticoagulare.
+                                       - protezele biologice: nu necesită tratament anticoagulant pe
+                                          termen lung, au risc de degenerescență, sunt preferate
+                                          atunci când există contraindicații pentru tratamentul
+                                          anticoagulant.
+       Alegerea tipului de proteza ține cont de următorii factori:
+       - vârsta pacientului
+       - ritmul cardiac
+       - riscul tratamentului anticoagulant
+       - dorința pacientului.
+
+                                                  100
+

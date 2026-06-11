@@ -1,0 +1,50 @@
+Oximetria sangvină (saturaţia)
+        Se recoltează pe cateter sânge din diferite sectoare circulatorii; din acest sânge se determină
+saturaţia oxigenului prin metode chimice sau fotometrice. Rezultatele se exprimă fie în ml de oxigen
+la 100 ml de sânge, fie procentual faţă saturaţia maximă a hemoglobinei în oxigen; între cele două
+exprimări există o relaţie constantă, 1 g de hemoglobină complet saturată, fixează 1.34 ml oxigen.
+        Saturaţia oxigenului se modifică în malformaţiile cardiace unde există o comunicare
+intercavitară dreapta - stânga. Pe baza modificării saturaţiei oxigenului se poate calcula debitul
+sanguin de scurtcircuit care traversează comunicarea anormală. Calculul se realizează prin metoda
+Fick. La traversarea circulaţiei pulmonare, cantitatea de oxigen preluată de sânge este egală cu
+produsul dintre debitul circulator în această circulaţie şi diferenţa concentraţiei oxigenului între vena
+pulmonară (CO2Vp) şi artera pulmonară (CO2Ap); acestea pot fi determinate, recoltând sânge din
+aceste teritorii prin cateterism cardiac. Cantitatea de oxigen preluată reprezintă consumul de oxigen
+al organismului (VO2) şi el poate fi măsurat folosind sisteme de respiraţie în circuit închis sau poate
+fi estimat pe baza unor tabele sau nomograme.
+Curbe de diluţie
+       Curbele de diluţie se obţin prin injectarea unei substanţe indicator într-un
+anumit sector circulator, urmată de recoltarea sângelui distal de locul de injectare; cu ajutorul unui
+densitometru, bazat pe modificările densităţii optice a sângelui, se trasează continuu curba de variaţie
+a concentraţiei substanţei respective în funcţie de timp. Deoarece diluţia substanţei injectate este
+invers proporţională cu debitul circulator în teritoriul respectiv, metoda poate servi la calcularea
+debitului cardiac.
+Angioplastia
+        Intervenția transluminală percutană coronariană numită astfel pentru că se face prin piele și
+prin lumenul arterei a fost efectuată pentru prima dată în 1977 de către Andreas Gruentzig. Fiind
+cunoscută ca angioplastie coronariană sau pur și simplu angioplastie, este o procedură non-
+chirurgicală utilizată pentru a trata stenozele semnificative hemodinamic ale arterelor coronare sau
+ale grafturilor arteriale / venoase aplicate arterelor coronare native. Angioplastia coronariană este de
+obicei efectuată de către un cardiolog cu supraspecializare în cardiologie intervenţională, deși a fost
+dezvoltată și realizată inițial de radiologi interventioniști.
+        Termenul de angioplastie cu balon (PTCA) este frecvent folosit pentru a descrie o intervenție
+coronariană percutană care descrie inflația unui balon în artera coronară pentru a zdrobi placa de
+aterom între balon și peretele arterei. Uzual inflația acestui balon este urmată de implantarea unei
+proteze metalice, numită stent coronarian. Termenul de PTCA este rezervat procedurii care se
+finalizează doar cu inflația balonului. Dacă angioplastia cu balon face parte din aproape toate
+intervențiile coronariene percutane, ea este rareori singulară, de obicei fiind urmată şi de alte
+procedee. Aceste proceduri efectuate în timpul unei intervenții coronariene percutane includ:
+- Implantarea de stent (figura 5)
+- Aterectomia (extragerea de material aterosclerotic prin “raşchetarea” plăcii aterosclerotice)
+- Brahiterapia (utilizarea de surse radioactive pentru a inactiva segmentul vascular, inhibând apariţia
+restenozei)
+- Trombectomia (mecanică, reolitică, rotaţională)
+- Evaluarea ecografică intravasculară (IVUS)
+- Tomografia de coerență optică (OCT)
+- Evaluarea fluxului coronarian de rezervă (ffR).
+
+
+
+
+                                                   75
+

@@ -1,0 +1,39 @@
+este responsabil de cele mai multe dintre aritmiile cardiace semnificative. Există două tipuri de
+reintrare: anatomică şi funcţională.
+        Reintrarea anatomică (figura 3).Condiţiile de apariţie a acesteia sunt: existenţa unui circuit de
+reintrare, a unei linii de bloc anatomic sau funcţional în interiorul circuitului şi a unui bloc
+unidirecţional pe una dintre ramurile circuitului. De asemenea, lungimea circuitului de reintrare
+trebuie să fie mai mare decât lungimea masei de ţesut excitat într-un anumit moment. Porţiunea care
+nu este excitată (pe circuitul de reintrare) se numeşte gap excitabil. Un stimul care ajunge la circuitul
+reintrării este blocat pe braţul cu bloc unidirecţional şi parcurge braţul fără bloc până într-un punct în
+care frontul se împarte continuând anterograd spre alte structuri şi, respectiv retrograd pe celălalt braţ
+al circuitului de reintrare, cel cu bloc unidirecţional. Dacă această zonă poate fi penetrată retrograd
+(şi aceasta se produce când a existat o întârziere de conducere pe braţul cu conducere anterogradă)
+frontul de undă o parcurge în această direcţie şi ajunge din nou la locul de intrare în circuit, de unde
+poate reintra atât pe calea pe care a parcurs-o anterior, anterograd cât şi retrograd adică în direcţia de
+unde a provenit impulsul care a ajuns la circuitul reintrării iniţial. În general, blocul unidirecţional (şi
+reintrarea propriu-zisă descrisă mai sus) este produs de o extrasistolă care ajunge într-o zonă pe care
+o găseşte în perioada refractară. Mecanismul de reintrare anatomică este favorizat de situaţii care scad
+viteza de conducere sau care scad perioada refractară. Frecvenţa tahicardiei este determinată de
+lungimea de undă (lungimea frontului excitat pe circuit) şi de caracterele circuitului. De exemplu, în
+reintrările atrioventriculare lungimea circuitului este mare şi întârzierea este mică, iar în tahicardiile
+ventriculare post infarct lungimea circuitului este mică dar întârzierea este mare. Exemple clinice ale
+unor aritmii prin reintrare anatomică sunt: flutter-ul atrial, reintrările atrioventriculare şi “intranodale”,
+tahicardiile atriale, tahicardiile ventriculare din faza cronică a IM.
+
+
+
+
+                                Figura 3. Schematizarea unui circuit de reintrare
+
+        Reintrarea funcţională. În reintrarea funcţională circuitul nu este definit de un obstacol
+anatomic, ci de modificări dinamice în vitezele de conducere, produse datorită nonuniformităţii locale.
+Exemple de reintrări funcţionale sunt: reintrarea prin „leading circle”, reflecţia, reintrarea de fază 2,
+reintrarea tip ”figură în 8” fără obstacol anatomic, reintrarea anizotropică şi rotorii. Descrierea
+amănununţită a acestor tipuri de reintrări nu face obiectul acestui curs. Reintrările funcţionale sunt
+mecanismul unor aritmii importante în practică, de exemplu fibrilaţia atrială sau ventriculară.
+
+
+
+                                                      152
+

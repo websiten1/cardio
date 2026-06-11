@@ -1,0 +1,43 @@
+    3. Ecocardiografia
+        Reprezintă evaluarea cheie pentru descrierea anatomiei valvulare, cuantificarea regurgitării
+aortice, elucidarea mecanismul de apariție, definirea morfologiei aortei și fezabilitatea chirurgiei de
+cruțare sau plastiei valvulare.
+        S-au definit 3 mecanisme de apariție a regurgitării aortice:
+              tip I: cuspe normale dar coaptare ineficientă din cauza dilatării rădăcinii aortice cu
+                 apariția jetului central.
+              tip II: prolapsul cuspei, cu jet excentric.
+              tip III: retracția cuspei cu țesut de calitate slabă al acesteia și cu jet central sau
+                 excentric.
+        Pentru cuantificarea regurgitării aortice se folosesc parametri calitativi, semi cantitativi și
+cantitativi. Criteriile ecocardiografice pentru regurgitarea aortică severă sunt:
+     calitativi: -morfologia valvulară: anormală/flail/defect larg de coaptare.
+                     -aria jetului de regurgitare: larg în cele centrale, variabil în cele excentrice.
+                     -semnalul Doppler continuu al jetului de regurgitare: dens.
+                     -altele: flux holodiastolic inversat în aorta descendentă ≥ 20 cm/s.
+     semicantitativi: -grosimea jetului de regurgitare la vena contracta≥6.
+                             -timp de înjumătățire a presiunii ( PHT)<200 ms.
+     cantitativi: - aria orificiului de regurgitare efectiv≥30 𝑚𝑚2 .
+                      - volumul regurgitant≥60 ml/debit-bătaie.
+                      - dilatarea de VS (figura 4)
+
+
+
+
+                               Figura 4 Regurgitare aortică (colecţie personală)
+
+        Trebuie realizată măsurarea rădăcinii aortei și a aortei ascendente la cele 4 niveluri (inel, sinus
+Valsalva, joncțiune sinotubara, aortă ascendentă tubulară) în secțiunea parasternal ax lung (PLAX),
+de la marginea superioară spre cea inferioară în telediastolă, cu excepția dimensiunii la inel care se
+măsoară în mezosistolă. Deoarece are implicații chirurgicale, este importantă diferențierea celor 3
+fenotipuri ale aortei ascendente: anevrisme ale rădăcinii aortei (aorta la sinus≥45 mm), anevrism
+tubular de aortă ascendentă (aorta la sinus<40-45 mm) și regurgitare aortică izolată (toate diametrele
+<40 mm).
+    4. Ecocardiografia transesofagiană: pentru vizualizarea anatomiei cuspelor în vederea evaluării
+    posibilității de reparare a valvei aortice, ar trebui efectuată preoperator dacă se ia în considerare
+    o intervenție chirurgicală la nivelul rădăcinii aortice cu prezervarea valvei aortice. De asemenea,
+    este absolut necesară evaluarea intraoperatorie a rezultatului chirurgical la pacienții la care valva
+    aortică este prezervată sau reparată în procedură.
+    5. Alte modalităţi imagistice (tomografia computerizată, rezonanţa magnetică) pot fi necesare
+    pentru evaluarea rădăcinii aortei şi a aortei ascendente. Imagistica prin rezonanţă magnetică poate
+                                                     116
+

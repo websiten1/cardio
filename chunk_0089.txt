@@ -1,0 +1,56 @@
+                                     Tabelul 6. Medicamentele de clasă III.
+
+    Medicament              Doze                Indicaţii         Contraindicaţii            Efecte adverse
+ AMIODARONA         PO încărcare : 600      Aritmii             BAV 2,3                Cardiace: bradicardie,
+                    mg/zi 1 luna            supraventriculare   Boala de nod sinusal   blocuri, rar ef. proaritmice
+                    apoi 200-400 mg/zi      şi ventriculare,    LQTS                   (torsadă,TV), hipotensiune
+                    Bolus i.v 150 mg        inclusiv postIM     In caz de afectare     arteriala
+                    apoi 1 mg/min 6h,       și in IC            tiroidiană: numai      Extracardiace: disfuncţie
+                    apoi 0,5 mg/min                             daca nu există altă    tiroidiană, depozite
+                    Sau: 5 mg/kg în 20                          opţiune                corneene, fibroză
+                    min -2 h apoi PEV                                                  pulmonară, hepatita toxică,
+                    50 mg/h (max 1,2                                                   neuropatii,
+                    g/zi)                                                              fotosensibilizare
+ DRONEDARONA        PO 800 mg/zi în 2       Profilaxia FA       Ca şi la amiodaronă    Cardiace
+                    prize                   paroxistice şi      IC cl III sau IV sau   agravarea IC, proaritmie
+                                            persistente         cu decompensare        prin creşterea QT (Stop la
+                                                                recentă                QT> 500 ms sau > cu 60
+                                                                FA permanentă          ms)
+                                                                BRC : Cl Cr < 30       Hepatice: hepatită
+                                                                ml/min                 necrotică
+                                                                Combinaţie cu          Digestive: diaree
+                                                                dabigatran
+ SOTALOL            PO 160-320 (max         Aritmii             ~betablocante          ~betablocante. (agravează
+                    640) mg/zi în 2 prize   supreventriculare   ~ amiodaronă.          mai puţin IC)
+                                            şi ventriculare,    HVS                    Proaritmice (torsadă)
+                                            inclusiv post IM,   ClCr < 30 ml/min
+                                            cu FE normală       Spasm coronarian
+ IBUTILID           IV 1mg în 10 min,       Conversia FlA       Antecedente de         Proaritmice (torsadă, TV
+                    se poate repeta 1 mg                        torsadă, QT lung de    polimorfă)
+                    după 10 min                                 bază, HVS severă,
+                                                                IC cu FEVS scazută
+ VERNAKALANT        IV 3 mg/kg în 10        Conversia FA        IC severă (Std III     Digestive: disgeuzie, greaţă
+                    min eventual repetat    recent instalată    sau IV), Stenoza Ao    Neurologice: parestezii
+                    2 mg/kg după 15 min     (< 7 zile)          severă, hipoTA <       Cardiace: bradicardie
+                                                                100 mm Hg, SCA
+                                                                recent< 1 lună
+                                                                QT lung de bază
+
+
+Medicamentele de clasa IV au ca unic mecanism de acţiune blocarea canalelelor lente de Ca2+ şi au
+deci ca principal efect bradicardizarea sinusală şi scăderea conducerii prin NAV. Ele nu au efecte
+antiaritmice majore asupra miocardului atrial sau ventricular, dar pot scădea postpotenţialele tardive,
+având deci acţiune în aritmii care implică acest mecanism şi pot trata de asemenea tahicardiile
+ventriculare care apar prin reintrări dependente de Ca în sistemul His Purkinje. Ca efecte secundare,
+blocantele de calciu (BCa) sunt inotrop-negative, putând agrava funcţia cardiacă la pacienţi cu
+disfuncţie sistolică de fond şi au acţiune vasodilatatoare care poate agrava hipotensiunea din
+tahicardii. Din acest motiv sunt contraindicate la pacienţi cu tahicardii cu QRS larg atunci când
+mecanismul nu este bine cunoscut. Bradicardiile semnificative sunt rare şi apar de obicei la pacienţi
+cu boală de nod sinusal. Alte efecte secundare, extracardiace, sunt constipaţia, ameţelile şi edemele
+periferice.
+
+
+
+
+                                                      159
+

@@ -1,0 +1,51 @@
+Capitolul 9. TULBURĂRILE DE RITM ŞI DE CONDUCERE -
+                  GENERALITĂŢI ȘI TAHIARITMII SUPRAVENTRICULARE
+                                                         Călin Siliște
+
+GENERALITĂȚI
+
+9.1. Consideraţii generale
+       Tulburările de ritm cardiac (TdR) reprezintă tulburări în geneza sau/şi în conducerea
+impulsurilor electrice în inimă, care duc la activarea anormală a atriilor sau/şi a ventriculilor.
+       TdR sunt o categorie patologică importantă, întrucât sunt boli frecvente şi uneori grave (de
+exemplu, pot reprezenta mecanismul morţii de cauză cardiacă).
+
+9.2. Anatomia sistemului de conducere
+        Pace-makerul normal al inimii este nodul sino-atrial (NSA). Celulele specializate din NSA
+generează prin depolarizare spontană (invizibilă pe EKG de suprafaţă) potenţiale de acţiune care sunt
+transmise prin zona de tranziţie sino-atrială la miocardul atrial. NSA este situat în 9/10 cazuri exclusiv
+în şantul terminal, de-a lungul cristei terminalis (CT), având în 1/10 din cazuri şi o continuare pe
+creasta auriculului drept. NSA are o formă ovoidală asimetrică (mai voluminos în porţiunea
+superioară) şi dimensiuni de aproximativ 1,5 cm/2-3 mm, fiind situat subepicardic în porţiunea
+superioară -la joncţiunea între vena cavă superioară (VCS) şi auriculul drept- şi mai profund -în
+interiorul musculaturii cristei terminalis- în porţiunile inferioare. Celulele pace-maker (nodale) se
+găsesc în centrul NSA, sunt mai mici şi diferite histologic de miocitele atriale din jur, având nuclei
+mai mari, citoplasmă mai săracă în organite şi mai puține miofilamente. Pornind dinspre centrul NSA
+spre periferie există o zonă tranziţională în care celulele prezintă caractere histologice intermediare
+între cele nodale descrise mai sus şi miocitele atriale. Aceste zone pot fi sediul unor tahicardii care
+prezintă o morfologie a undelor P asemănătoare cu cea sinusală denumite tahicardii parasinusale.
+Vascularizarea NSA este asigurată de artera NSA, cu origine în artera coronară dreaptă (CD) (în 60%
+din cazuri) sau circumflexă (CX) ( în 40% din cazuri); aceasta explică apariţia disfuncţiei sinusale
+din infarctul miocardic acut (IMA) inferior sau inferolateral. Inervarea vegetativă este duală simpatică
+şi parasimpatică.
+        De la nivelul NSA, impulsurile sunt transmise la nodul atrioventricular (NAV) prin miocardul
+atrial în mod nonuniform, anizotropic, cel mai probabil preferenţial prin aşa-numitele tracturi
+internodale. Acestea reprezintă zone de miocard cu structură histologică identică celei a miocardului
+atrial dar care conduc preferenţial impulsurile, întrucât au aranjare “avantajoasă” a miocitelor
+(longitudinal în sensul în care se conduce curentul) şi evită zonele de anfractuozitate normal prezente
+în atriul drept (AD). Au fost descrise cel puţin trei asemenea tracturi. Tractul anterior (Bachmann)
+porneşte de la nivelul NSA anterior, trece adiacent orificiului venei cave superioare (VCS) , dă naştere
+fasciculului interatrial Bachmann şi se continuă apoi antero-inferior pe septul interatrial (SIA)
+ajungând spre porţiunea anterioară şi superioară a NAV. Tractul mijlociu (Wenckebach) porneşte de
+la nivelul NSA postero-superior, trece posterior de orificiul VCS şi traversează prin limbul fosei ovale
+spre NAV inferior. Tractul posterior (Thorel) porneşte de la nivelul porţiunii postero-inferioare a
+NSA, trece prin crista terminalis şi traversează SIA inferior spre zona posterioară a NAV aproape de
+ostiul sinusului coronar (OSC).
+        Între AD şi AS conducerea este de asemenea preferenţială şi se face prin fasciculul Bachmann
+(la nivelul tavanului atriilor), prin zona fosei ovale şi prin sinusul coronar (SC). Conducerea prin
+fasciculul Bachmann este considerată constantă şi are caracteristica de a fi rapidă, asigurând în acest
+fel sincronizarea atriilor. Când acest fascicul este blocat, depolarizarea atriului stâng este întârziată şi
+se face numai în sens infero-superior (figura 1).
+
+                                                   146
+

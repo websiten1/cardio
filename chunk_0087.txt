@@ -1,0 +1,59 @@
+                                        Tabelul 4. Medicamentele de clasă Ic.
+ Medicament         Doze           Indicaţii            Contraindicaţii             Efecte adverse
+ PROPAFENONA        PO 450-900     FA, TPSV,            BCI sau cardiopatie         Cardiovasculare: uşor
+                    mg/zi, în 3    ESSV aritmii         structurală semnificativă   inotrop-negativ, BAV,
+                    prize          ventriculare pe      BRC sau afecţiuni           subnodal, proaritmie
+                    IV 1,5-2       cord normal          hepatice semnificative      ventriculară, (stop la
+                    mg/kg în                            Astm                        creştere QRS> 25%) flutter
+                    10 min                                                          1/1, hipotensiune
+                                                                                    Digestive: greaţă, gust
+                                                                                    metalic
+                                                                                    Neurologice: ameţeli,
+                                                                                    oboseală, cefalee
+ FLECAINIDA         PO 200-400     FiA, TPSV,           BCI sau cardiopatie         Cardiovasculare: ca și
+                    mg/zi, în 2    ESSV, aritmii        structurală semnificativă   propafenona
+                    prize          ventriculare pe      BRC sau afecţiuni           Neurologice: ~ propafenona
+                    IV 2 mg/kg     cord normal          hepatice semnificative
+                    în 10 min      CPVT
+
+BRC= boala renală cronică
+Medicamentele de clasa II, betablocante (BB) acţionează în mod indirect prin efect antiadrenergic,
+deşi unele, de exemplu propranolol, au şi efect stabilizant de membrană direct, scăzând panta fazei 0,
+acest efect fiind însă unul pur teoretic. În general au acţiune antiaritmică intrinsecă slabă dar sunt
+protective pe termen lung. Intrucât inervaţia simpatică este cel mai bine reprezentată în NSA şi NAV,
+efectele cele mai importante ale BB sunt bradicardia sinusală şi scăderea conducerii AV. BB sunt
+utilizate în tratamentul tahicardiei sinusale, în aritmii reintrante care folosesc NAV ca şi cale a
+reintrării, ca şi pentru scăderea frecvenţei cardiace în aritmii supraventriculare ca FA sau flutter atrial
+(FlA). BB scad ESV şi TV adrenergic dependente şi sunt utile în multe tipuri de sdr de QT lung
+congenital (dar nu în toate). Efectele protective pe termen lung se manifestă în ischemie şi în
+disfuncția sistolică VS. BB scad reintrările în miocardul ischemic prin “nivelarea” diferenţelor locale
+în inervaţia simpatică şi cresc pragul de FV. Landiolol este beta 1 selectiv și are particularitatea unui
+timp de înjumătăţire ultrascurt. Nadolol are un timp de înjumătățire lung (20-24h). Efectele secundare
+cardiace cele mai importante ale BB sunt bradicardia şi efectul inotrop-negativ. Bradicardia la dozele
+obişnuite nu este gravă de cele mai multe ori, iar efectele inotrop-negative sunt importante numai la
+administrarea în acut la pacienţi cu funcţie cardiacă alterată. Efectele extracardiace cele mai
+importante sunt bronhospasmul, agravarea hipoglicemiei/ mascarea efectelor acesteia la diabetici şi
+agravarea insuficienţei circulatorii periferice; toate sunt scăzute cu noile generaţii de betablocante
+cardioselective.
+                                        Tabelul 5. Medicamentele de clasă II.
+ Medicament        Doze                     Indicaţii               Contraindicaţii      Ef. adverse
+ PROPRANOLOL       80-320 mg/zi, în 3-4     Controlul frecvenţei    BAV 2, 3             Oboseală
+                   prize                     în     FA,      FlA,   BNS                  Bronhospasm
+                                            tahicardie sinusală     Astm bronşic         Cardiovasculare:
+                                            Profilaxia TPSV         sever                Bradicardie,
+                                            ESV, TV mai ales de     IC decompensată      BAV,hipotensiune
+                                            efort, post IM          Spasm coronarian     arterială
+                                            LQTS (majoritatea)      Sindrom Brugada      Mascarea efectelor
+                                            CPVT                                         hipoglcemiei
+                                                                                         Neurologice: sedare,
+                                                                                         astenie, insomnie,
+                                                                                         Depresie
+                                                                                         Impotenţă
+ LANDIOLOL         100 μg/kg bolus in       TV inclusiv cele din    ~propranolol         Bradicardie, hipotensiune
+ T1/2 ultrascurt   1 min, infusion          furtuna electrică                            arterială
+                   10–40 μg/kg/min                                                       Fără efectele pe termen
+                                                                                         lung ale BB
+
+
+                                                        157
+

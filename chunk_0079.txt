@@ -1,0 +1,56 @@
+rapidă şi 80-100 ms pentru cea lentă. Faza 2 sau platoul este cea mai lungă perioada a PA, de ordinul
+a zeci de milisecunde în atriu şi sute de milisecunde în ventricul şi este menţinută de un echilibru între
+curenţi de intrare: curentul I CaL -cel mai important- şi cel generat de exchanger-ul Na+-Ca2+, respectiv
+curenţii de iesire de K+: IK (delayed outward rectifier) şi IK1 (inward rectifier). IK are trei componente:
+IKur, IKr, şi IKs. Ikur este exclusiv atrial. Influxul de Ca2+ este lent, ceea ce împiedică repolarizarea
+rapidă a celulei, aceasta având deci şi o perioadă refractară (PR). PR determină frecvenţa la care o
+structura cardiacă poate să raspundă la un stimul (cu cât PR este mai mică, cu atât structura respectivă
+poate să răspundă la stimuli mai rapizi şi invers). Platoul se termină atunci când canalele de Ca2+
+devin inactive şi permeabilitatea pentru K+ creşte, mai ales datorită curentului IK1. În faza 3, în
+condiţiile în care curentul ICaL se inactivează şi curenţii de K+ (IK şi IK1) sunt activi, potenţialul de
+membrană revine la valorile iniţiale (potenţialul de repaus negativ). Un curent mai slab de K+ (I K ATP)
+este de asemenea activ în această fază. În faza 4 celulele miocardice rămân la potenţialul de repaus
+(menţinut în principal de IK1 şi secundar de IKATP) iar în celulele cu depolarizare spontană (HP) se
+produce depolarizarea progresivă; cele mai importante componente care participa la acest fenomen
+sunt: curentul generat de exchanger-ul Na+-Ca2+ şi scăderea progresivă a curenţilor de K+.
+         Potenţialul de acţiune “cu răspuns lent”, al unei celule sinusale sau nodale, prezintă mai multe
+diferenţe faţa de cel descris mai sus. Potenţialul diastolic maxim este mai puţin negativ: -50 - 65mV.
+În aceste condiţii, canalele de Na+ sunt inactivate şi nu participă la depolarizare. În consecinţă,
+depolarizarea depinde de ICaL care pe de-o parte se activează şi se inactivează mai lent şi pe de altă
+parte este mai slab decat INa. În consecinţă, panta acestui PA este mai lentă, de aproximativ 10 V/s şi
+de amplitudine mai mică. În celulele nodale nu există faza 1 dar există un platou bine marcat, ceea ce
+face ca PA nodal să fie mai lung decat al miocardului atrial din jur. Repolarizarea celulei nodale este
+asemănătoare cu cea a celorlalte tipuri de miocite: prin scăderea ICaL şi activarea Ito, IK ur,IKs, IKr. În
+faza 4 există depolarizare spontană, favorizată de lipsa IK1 şi care se produce prin două tipuri de
+mecanisme: voltage clock şi calcium clock. Prin voltage clock se inţelege depolarizarea membranei
+prin curenţi de membrană dependenţi de voltaj. Cel mai important este curentul If (“ funny”), denumit
+aşa întrucât este activat de hiperpolarizare spre deosebire de majoritatea celorlalţi curenţi. If este un
+curent mixt de Na+ şi K+ şi este reglat de sistemul vegetativ prin AMPc. La voltage clock participă şi
+alţi curenţi de importanţă mai mică . Calcium clock participă la depolarizare în felul următor: într-un
+anumit moment al acestei faze există o mică eliberare de Ca2+ din reticulul sarcoplasmic (RES) care
+activează exchanger-ul Na+-Ca2+, acesta fiind responsabil de creşterea rapidă a pantei până la finalul
+acesteia când se atinge potenţialul prag al ICaL şi declanşarea fazei 0.
+9.4. Mecanismele generale ale aritmiilor
+Clasificare
+   1.Anomaliile formării impulsului
+               1. Automatism
+                       1. normal
+                       2. anormal
+               2. Activitate declanşată
+                       1. postpotenţiale precoce
+                       2. postpotentiale tardive
+    2 Anomaliile conducerii impulsului
+               1. Bloc fără reintrare
+               2. Reintrare
+                   1. Anatomică
+                   2. Funcţională
+Anomaliile formării impulsului
+        Anomalii ale automatismului normal. Aritmiile generate prin acest mecanism apar prin
+modificarea pantei de depolarizare în structurile care au această proprietate a PA: în principiu NSA,
+NAV-H, HP dar şi în celule atriale din alte zone (celulele parasinusale, cele de la joncţiunea AD-VCI,
+din jurul OSC, din inelele atrioventriculare şi din venele pulmonare). În mod normal celulele cu panta
+de depolarizare cea mai rapidă (ale NSA) “forţează” depolarizarea celorlalte subiacente, ierarhia fiind:
+NSA, NAV-H, HP. Automatismul normal crescut în centrele subsidiare poate genera extrasistole sau
+
+                                                   149
+

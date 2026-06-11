@@ -1,0 +1,45 @@
+        Se poate aprecia cantitativ severitatea RT prin metoda PISA (Proximal Isovelocity Surface
+Area), cu calcularea razei zonei de convergenţă (aliasing) după scăderea limitei Nyquist la 38cm/s.
+Un volum regurgitant de peste 40ml defineşte o RT severă. O rază a zonei de convergenţă de peste
+9mm defineşte RT severă, şi o rază de sub 5mm o RT uşoară.
+        Semnele indirecte ale unei RT severe sunt o velocitate a fluxului anterograd la nivelul
+tricuspidei de peste 1m/s în condiţiile absenţei ST şi prezenţa refluxului sistolic în venele hepatice.
+        Prin Doppler continuu se poate determina gradientul maxim VD-AD, care nu defineşte
+severitatea RT, dar este util pentru calculul presiunii sistolice în artera pulmonară. În condiţiile
+dilatării importante a VD, a alterării cineticii VD, gradientul VD-AD poate fi subevaluat, motiv
+pentru care semnele indirecte de hipertensiune pulmonară severă au valoare crescută. Prezenţa SIV
+diskinetic, a dilatării severe a VD, a alterării cineticii VD sunt argumente pentru hipertensiunea
+pulmonară severă. O anvelopă de regurgitare tricuspidiană plină, holosistolică, de formă
+triunghiulară sugerează RT severă.
+        Nu se poate stabili o corelaţie între severitatea RT şi presiunea în artera pulmonară, frecvent
+întâlnindu-se hipertensiune pulmonară severă în condiţiile RT ușoare-medii.
+        De asemenea în condiţiile unei RT semnificative este importantă aprecierea cineticii VD
+prin excursia sistolică a inelului tricuspidian (TAPSE normal peste 14mm) în modul M pentru
+cinetică longitudinală VD şi prin velocitatea contracţiei miocardice a peretelui liber VD (S peste
+10cm/s).
+        Ambele au valoare redusă în condiţiile RT semnificative, fiind recomandată ecografia 3D
+pentru aprecierea cineticii VD (5).
+        Coronarografia şi cateterismul cardiac nu sunt investigaţii de primă intenţie, coronarografia
+fiind recomandată în cazul suspectării bolii coronariene aterosclerotice şi în cazul necesităţii
+corecţiei chirurgicale. În acest caz indicaţiile se referă la indicaţiile comune pentru toţi pacienţii cu
+indicaţie operatorie valvulară: bărbaţi peste 40 de ani şi femei postmenopauaza, peste 1 factor de
+risc coronarian, disfuncţie sistolică VS prezentă, istoric de ischemie miocardică, teste de provocare
+documentând ischemia.
+        Rezonanţa magnetică nucleară şi scintigrafia cu radionuclizi sunt două investigaţii utile în
+aprecierea FEVD la pacienţii cu RT semnificativă (59).
+
+
+
+
+                Figura 25. Flux Doppler continuu de regurgitare tricuspidiană (colecție personală)
+
+Tratamentul
+         Medical
+        Constă în terapie diuretică odată cu apariţia simptomelor și terapie cu IEC. Dozele de
+diuretic trebuie escaladate progresiv şi cu precauţie. De multe ori răspunsul insuficient la terapia
+medicală indică intervenţia chirurgicală. La pacienţii cu endocardită tricuspidiană este necesară
+terapia antibiotică.
+         Chirurgical
+        Indicaţiile intervenţiei chirurgicale pentru RT sunt (60):
+                                                   124
+

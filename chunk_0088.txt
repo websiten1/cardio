@@ -1,0 +1,58 @@
+ METOPROLOL        Tartrat: PO 50-200      ~propranolol          ~propranolol           ~propranolol
+                   mg/zi, 2 prize                                (beta1 selectiv , se
+                   IV 2,5-5 mg in 5 min.                         preferă in astm
+                   (max 4 doze)                                  bronsic)
+                   Succinat: 50-400
+                   mg/zi 1 priză
+ BISOPROLOL        1,25-20 mg/zi, 1        ~propranolol          ~propranolol           ~propranolol
+                   priza                                         (beta1 selectiv, se
+                                                                 preferă in astm
+                                                                 bronsic)
+ NADOLOL           40-120 mg/zi 1 priza    ESV, LQTS             ~propranolol           ~propranolol
+ T1/2 lung                                 (majoritatea) , PVT
+
+
+Medicamentele de clasa III blochează clasic canalale de K (Ito, Ik1 şi Ik), şi cresc DPA, aceasta
+fiind “marca”clasei III. Niciunul din medicamentele clasice de acest tip nu este “pur”, având şi efecte
+de alte clase. Amiodarona are ca principal efect creşterea PRE, care este omogenă şi la toate nivelurile,
+mai ales la ritmuri rapide (IIIa, efect de “use-dependence”), deci scade excitabilitatea, dar are şi efecte
+clinice de clasa I, II şi IV, scăzând atât conducerea cât şi automatismul. Efectul de clasa III se
+instalează foarte lent în cronic şi nu se manifestă practic deloc în administrarea IV. Sotalol are şi efect
+de cl II şi crește DPA direct proporţional cu doza mai ales la ritmuri lente ( “reverse use dependence”,
+IIIb). Ibutilid blochează şi canelele de Na, are” reverse use dependence” şi produce alungirea QT la
+frecvenţe normale. În general se consideră că medicamentele de clasa III au acţiune antiaritmică
+puternică, dar şi efecte secundare importante. Amiodarona este moderat eficace în profilaxia FA (50-
+65% la 1-2 ani), poate fi folosită în aritmiile supraventriculare la pacienţi cu WPW şi este cel mai
+activ medicament pe aritmiile ventriculare deşi nu creste supravieţuirea totală la aceşti pacienţi.
+Amiodarona poate fi unica variantă de antiaritmic la pacienţi cu disfuncţie VS concomitentă.
+Utilitatea majoră astăzi este în scăderea numărului de şocuri la pacienţii cu defibrilatoare implantabile
+şi TV recurente. Deşi este un antiaritmic eficace, utilizarea sa este limitată de efectele secundare
+extracardiace şi este rar un medicament de primă intenţie. Efectele secundare principale ale
+amiodaronei sunt extracardiace, majoritatea fiind dependente de doza cumulată. Cele mai grave sunt
+cele pulmonare ca de exemplu fibroza interstiţială- care poate fi ireversibilă- şi sindromul de detresă
+respiratorie a adultului. Efectele secundare tiroidiene sunt frecvente: aproximativ 10 % din pacienţi
+dezvoltă hipotiroidie (care poate fi tratată fără ca eventual să se întrerupă amiodarona), mai rar se
+produce hipertiroidie, care în general impune întreruperea amiodaronei şi se tratează mai greu cu
+medicamente (necesitând chiar tiroidectomie chirurgicală la unii pacienţi). Alte efecte secundare mai
+puţin grave sunt: depozitele corneene (practic la toţi pacienţii) şi fotosensibilitatea cutanată.
+Dronedarona are o structură chimică asemănătoare cu cea a amiodaronei dar nu conţine iod, deci nu
+are efecte tiroidiene. Este mai puţin eficace decât amiodarona şi este folosita în profilaxia FA
+paroxistică şi a unor forme de FA persistentă. Preparatul de sotalol în uz astăzi este o mixtură
+d-sotalol (cl III) cu l-sotalol (BB mai slab decât propranorol). Sotalol creşte durata PA în atrii şi
+ventriculi şi poate fi folosit pentru toate aritmiile supraventriculare sau ventriculare, fiind în general
+mai eficace decât clasa I a şi mai puţin eficace decât amiodarona. Nu se foloseşte la pacienţi cu infarct
+miocardic în antecedente şi FEVS scăzută, întrucât creşte mortalitatea. Are proprietatea de “reverse-
+use dependence”, este inotrop-negativ şi este mai aritmogen decât amiodarona, prin favorizarea
+postpotenţiale precoce. Efectele secundare principale ale sotalolului sunt cele ale betablocantelor şi
+torsada vârfurilor (pentru care riscul este mai mare decât al medicamentelor de clasa Ia, fiind direct
+proporţional cu doza). Ibutilid este folosit pentru conversia FA şi FlA, cu o eficacitate modestă, de <
+50% şi cu dezavantajul unui efect aritmogen datorita creşterii QT în acut. Vernakalant are o acţiune
+pe mai multe canale, cea predominantă fiind pe IKur şi IKAch mai puţin pe curentul şi ITO şi aproape
+deloc pe IK, deci are selectivitate pe atriu şi siguranţa de a nu creşte durata QT, (având efect aritmogen
+redus). Indicaţia clinică este de conversie acută a FA, fiind cel mai eficace medicament cu acest efect.
+
+
+
+
+                                                      158
+

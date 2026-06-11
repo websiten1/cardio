@@ -1,0 +1,57 @@
+        4. Studiul electrofiziologic invaziv permite înregistrarea locală a activităţii electrice normale
+sau patologice în zone diferite ale inimii, declanşarea eventualelor aritmii prin stimulare conform
+unor protocoale speciale (stimulare programată) sau diagnosticul unor tulburări de conducere prin
+înregistrări locale, de obicei în zona joncţiunii AV, unde se poate aprecia sediul blocului.
+9.7. Generalităţi asupra tratamentului şi prezentarea medicamentelor antiaritmice
+         Mijloacele terapeutice utile în tratamentul aritmiilor sunt enumerate mai jos şi vor fi detaliate
+în cadrul fiecărei aritmii:
+         1. Compresia sino-carotidiană (CSC) poate opri aritmii al căror mecanism implică o reintrare
+dependentă de NAV, de exemplu reintrările atrioventriculare sau atrioventriculare nodale
+(“intranodale”)
+         2. Tratamentul medicamentos (vezi mai jos)
+         3. Overdriving-ul este metoda de oprire a unei aritmii prin antrenarea acesteia la o frecvenţă
+mai mare decât cea proprie. Când răspunde favorabil, aritmia se opreşte la oprirea stimulării.
+Overdriving-ul poate fi noninvaziv la persoane care au un stimulator cardiac (cu ajutorul unor
+algoritme speciale cu care sunt dotate acestea) sau invaziv: transesofagian (mai ales la copil, când se
+poate antrena AS datorită apropierii celor două structuri anatomice) sau endovascular, prin plasarea
+unei sonde de stimulare în atriu după abord venos central.
+         4. Dispozitivele implantabile (pace-maker, defibrilator implantabil)
+         5. Ablaţia este o metodă intrată azi în uzul curent pentru aritmii ca flutter-ul atrial, reintrările
+uzuale din “TPSV”, sindroamele de preexcitaţie, fibrilaţia atrială şi tahicardiile ventriculare. Cel mai
+frecvent se foloseşte curentul de radiofrecvenţă (RF), care permite crearea unor leziuni celulare
+ireversibile prin încălzire rezistivă, dar există şi metode alternative cum este crioablaţia (distrugerea
+unei zone patologice prin răcire). Locurile de aplicare a energiei sunt reperate în prealabil (mapping)
+prin metode specific, la studiul electrofiziologic.
+         6. Chirurgia antiaritmică este o metodă de excepţie astăzi, mai ales dupa apariţia şi dezvoltarea
+ablaţiei. Ea se foloseşte practic numai în cadrul unor operaţii cu alt scop principal (de exemplu crearea
+unor linii în AS în timpul operaţiilor de înlocuire valvulară mitrală, cu scopul de a scădea masa de
+miocard atrial şi deci şi şansele de a se produce FA). În ultimul timp au apărut metode de chirurgie
+minim invazivă, prin toracoscopie, prin care se pot efectua atât aplicații epicardice de radiofrecvenţă
+cât şi alte tipuri de proceduri utile în tratamentul aritmiilor, de exemplu excluderea auricului stâng-
+ca metodă de profilaxie antitrombotică.
+        Antiaritmicele sunt sistematizate cel mai frecvent după clasificarea Vaughan Williams care a
+fost gândită pentru a împărţi medicamentele antiaritmice după mecanismul lor major de acţiune la
+nivelul canalelor ionice și pe sistemul nervos simpatic. Această abordare are ca principal avantaj
+simplitatea, dar are şi multe limitări printre care: a fost stabilită pe baza efectelor in vitro, nu ia în
+considerare efectele metaboliţilor, nu ţine seama de efectele colaterale ale medicamentelor (ca de
+exemplu efectele pe sistemul nervos vegetativ), nu precizează că unele medicamente pot avea efecte
+din mai multe clase, nu cuprinde unele medicamente care au de asemenea proprietăţi antiaritmice
+(adenozina, digoxin, ivabradina etc).
+                        Tabelul 1. Clasificarea Vaughan-Williams a medicamentelor antiaritmice
+ Clasa                       Efecte electrofiziologice şi mecanism al        Exemple (medicamente comune
+                             acţiunii                                        utlizate in prezent )
+ I                 Ia        faza 0, (conducerea)                          Chinidina,            Procainamida,
+                               PRE, ( PRE/DPA) (excitabilitatea)          Disopiramida,
+ Blocante     de   Ib         DPA , PRE/DPA ( excitabilitatea)            Xilina, Mexiletin
+ canale de Na+
+                   Ic         Faza 0 ,  puţin DPA                         Flecainida, Propafenona.
+                             ( conducerea)
+ II                          efect indirect prin  ef. catecolamine;         Propranolol,   Metoprolol,   Nadolol
+                             automatism (faza 4) conducerea (faza 0)       Landiolol
+ Betablocante                excitabilitatea
+                             postpotenţiale tardive (scad acumularea de
+                             Ca2)
+
+
+                                                        154
+

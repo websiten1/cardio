@@ -1,0 +1,63 @@
+Intervenţii periferice
+        Intervenţia percutană periferică se realizează prin acelaşi tip de abord ca şi pentru intervenţia
+coronariană, putându-se reliza aborduri anterograde și retrograde, puncția având direcție centrifugă
+în abordul anterograd, respecitv centripetă în abordul retrogard. Se pot efectua proceduri diagnostice
+şi terapeutice pentru orice teritoriu vascular. Porcedurile terapeutice variază de la angioplastie cu
+balon (PTA) sau/şi stent până la embolizări de mase solide, vascularizate. Se utilizează acelaşi tip de
+angiograf, cu aceeaşi substanţă de contrast radio-opacă. Se urmăresc aceleaşi obiective de restabilire
+a fluxului sanguin periferic în cazul procedurilor de revascularizare, cu aceleaşi precauţii în utilizarea
+unei proceduri terapeutice în mediu de Raze X. În cazul embolizărilor de anevrisme, mase solide
+sau de fistule se folosesc divesre materiale de la cele metalice tip resort, la cele derivate din colagen
+de origine animală.
+
+Bibliografie selectivă
+1.    Tullio Palmerini; Giuseppe Biondi-Zoccai; Letizia Bacchi Reggiani; Diego Sangiorgi; Laura Alessi; Stefano De
+      Servi; Angelo Branzi; Gregg W. Stone,; Biondi-Zoccai; Reggiani; Sangiorgi; Alessi; De Servi; Branzi; Stone
+      (August 2012). "Risk of Stroke With Coronary Artery Bypass Graft Surgery Compared With Percutaneous Coronary
+      Intervention". Journal of the American College of Cardiology 60 (9): 798–805. doi:10.1016/j.jacc.2011.10.912.
+      PMID 22917004;
+2.    Stroupe KT, Morrison DA, Hlatky MA, Barnett PG, Cao L, Lyttle C, Hynes DM, Henderson WG (September 2006).
+      "Cost-effectiveness of coronary artery bypass grafts versus percutaneous coronary intervention for revascularization
+      of high-risk patients". Circulation 114 (12): 1251–1257. doi:10.1161/CIRCULATIONAHA. 105.570838. PMID
+      16966588;
+3.    Kones, R (Sep 7, 2010). "Recent advances in the management of chronic stable angina II. Anti-ischemic therapy,
+      options for refractory angina, risk factor reduction, and revascularization". Vascular health and risk management 6:
+      749–74. doi:10.2147/vhrm.s11100. PMC 2941787. PMID 20859545;
+4.    "JAMA Network | Archives of Internal Medicine | Drug-Eluting vs Bare-Metal Stents in Primary AngioplastyA Pooled
+      Patient-Level Meta-analysis of Randomized Trials". Archinte.ama-assn.org. 2012-04-23. Retrieved 2012-11-08;
+5.    Palmerini, T; Biondi-Zoccai, G, Riva, DD, Stettler, C, Sangiorgi, D, D'Ascenzo, F, Kimura, T, Briguori, C, Sabatè,
+      M, Kim, HS, De Waha, A, Kedhi, E, Smits, PC, Kaiser, C, Sardella, G, Marullo, A, Kirtane, AJ, Leon, MB, Stone,
+      GW (Mar 22, 2012). "Stent thrombosis with drug-eluting and bare-metal stents: evidence from a comprehensive
+      network meta-analysis.". Lancet 379 (9824): 1393–402. doi:10.1016/S0140-6736(12)60324-9. PMID 22445239;
+6.    Elmariah, Sammy; Mauri, Laura; Doros, Gheorghe; Galper, Benjamin Z; O'Neill, Kelly E; Steg, Philippe Gabriel;
+      Kereiakes, Dean J; Yeh, Robert W (November 2014). "Extended duration dual antiplatelet therapy and mortality: a
+      systematic review and meta-analysis". The Lancet. doi:10.1016/S0140-6736(14)62052-3;
+7.    Harold JG; Bass TA; Bashore TM et al. (May 2013). "ACCF/AHA/SCAI 2013 Update of the Clinical Competence
+      Statement on Coronary Artery Interventional Procedures: A Report of the American College of Cardiology
+      Foundation/American Heart Association/American College of Physicians Task Force on Clinical Competence and
+      Training (Writing Committee to Revise the 2007 Clinical Competence Statement on Cardiac Interventional
+      Procedures)". Circulation 128 (4): 436–72. doi:10.1161/CIR.0b013e318299cd8a. PMID 23658439;
+8.    Jang JS; Jin HY; Seo JS et al. (August 2012). "The transradial versus the transfemoral approach for primary
+      percutaneous coronary intervention in patients with acute myocardial infarction: a systematic review and meta-
+      analysis". EuroIntervention 8 (4): 501–10. doi:10.4244/EIJV8I4A78. PMID 22581470;
+9.    Yang EH, Gumina RJ, Lennon RJ, Holmes DR, Rihal CS, Singh (2005). "to 2003". Journal of the American College
+      of Cardiology 46 (11): 2004–2009. doi:10.1016/j.jacc.2005.06.083. PMID 16325032;
+10.   Califf R. M.; Abdelmeguid A. E. et al. (1998). "Myonecrosis after revascularization procedures". J Am Coll Cardiol
+      31 (2): 241–51. doi:10.1016/S0735-1097(97)00506-8. PMID 9462562;
+11.   Tardiff B. E.; Califf R. M. et al. (1999). "Clinical outcomes after detection of elevated cardiac enzymes in patients
+      undergoing percutaneous intervention. IMPACT-II Investigators. Integrilin (eptifibatide) to Minimize Platelet
+      Aggregation and Coronary Thrombosis-II". J Am Coll Cardiol 33 (1): 88–96. doi:10.1016/S0735-1097(98)00551-
+      8. PMID 9935014;
+12.   Cucherat M, Bonnefoy E, Tremeau G (2003). "Primary angioplasty versus intravenous thrombolysis for acute
+      myocardial infarction". Cochrane Database Syst Rev (3): CD001560. doi:10.1002/14651858.CD001560. PMID
+      12917910;
+13.   "What Is Coronary Angioplasty? - NHLBI, NIH". Nhlbi.nih.gov. Retrieved 2012-11-08;
+14.   Michaels AD, Chatterjee K (December 2002). "Cardiology patient pages. Angioplasty versus bypass surgery for
+      coronary artery disease". Circulation 106 (23): e187–90. doi:10.1161/01.CIR.0000044747.37349.64. PMID
+      12460885. Retrieved 2009-07-13;
+15.   Mercado, N, Flather, MD, Boersna, E, et al., on Behalf of the Trial Investigators CABG vs Stenting for Multivessel
+      Disease: a Meta-analysis of ARTS-1, SoS, ERACI-2, and MASS-2, Presentation at European Society of Cardiology
+      Congress 2003;
+
+                                                            78
+

@@ -1,0 +1,53 @@
+PA se manifestă numai în ventricul, deşi medicamentele nu sunt selective pentru receptori ventriculari.
+Aceste antiaritmice scad excitabilitatea, sunt moderat active în aritmii ventriculare (ESV şi TV), în
+special în cele ischemice, nu sunt aritmogene şi nu au efecte hemodinamice. Xilina este mai puţin
+eficace decât amiodarona în controlul acut al TV şi poate fi folosită atunci când tahicardia nu a
+raspuns la tratamentul cu amiodaronă (şi betablocant) sau cand amiodarona este contraindicată.
+Efectele secundare cele mai importante sunt la nivelul sistemului nervos. Mexiletin este utilizat foarte
+rar (de exemplu în asociere cu amiodarona pentru TV repetitive la pacienţi cu defibrilator implantabil
+când amiodarona nu controleaza aritmia). Nu se cunosc efectele pe termen lung al acestei combinaţii.
+Mexiletin are efecte secundare extracardiace (mai ales digestive) semnificative.
+                                         Tabelul 3. Medicamentele de clasă Ib
+ Medicament     Doze                     Indicaţii        Contraindicaţii       Efecte adverse
+
+
+ XILINA         Bolus IV 50-200 mg       Aritmii          Hipersensibilitate    Cardiace: oprire sinusală
+                apoi PIV 2-4 mg/min      ventriculare     cunoscută             Neurologice: fasciculaţii,
+                apoi 1-2 mg/min la >     din BCI          Precautii la          convulsii, depresie centru
+                24 h (ajustare doze în                    scaderea fluxului     respirator, halucinaţii, agitaţie
+                insuf hepatică şi la                      hepatic (soc, IC      psiho-motorie
+                varstnici)                                severa tratament      Digestive: greţuri, vărsături
+                                                          cu betablocante)      Methemoglobinemie
+                                                                                Alergii
+ MEXILETIN      600-1200 mg/zi, în 3     Aritmii          BAV 2,3               Neurologice: ~ xilina
+                prize                    ventriculare     BNS                   Digestive: hepatita toxică,
+                                         LQTS3            IC severă             diaree, greţuri, constipaţie,
+                                                                                anorexie
+                                                                                Cardiovasculare: bradicardie,
+                                                                                hipotensiune, agravarea IC
+                                                                                Hematologice: leucopenie,
+                                                                                trombopenie
+                                                                                Oculare: tulbur ări de vedere
+                                                                                Dermatologice: rash
+       IC= insuficiență cardiacă BCI=boală cardiacă ischemică
+
+        Medicamentele de clasa Ic scad marcat amplitudinea fazei 0, scăzând viteza de conducere,
+mai ales la ritmuri rapide (vezi mai sus), dar, posibil şi la frecvenţe normale, datorită cineticii lente,
+atât în atriu, cât şi în ventricul. Ele au şi un efect minor pe canalele de K, dar nu cresc semnificativ
+PRE şi DPA. În clinică, efectul Ic se manifestă ca o alungire doză-dependentă a QRS şi (mai puţin) a
+PR, fără influenţarea QT. Flecainida şi propafenona nu au acţiune pe postpotenţiale precoce;
+propafenona scade automatismul şi ambele medicamente sunt şi inotrop-negative. Ele sunt active în
+aritmii supraventriculare şi ventriculare dar au dezavantajul de a fi contraindicate la bolnavi cu
+afectare cardiacă organică semnificativă. Flecainida blocheaza receptorul de rianodina si poate fi
+eficace in sindromul denumit tahicardie catecolergică familială (CPVT). Efectele secundare sunt mai
+ales cardiace, în rest medicamentele fiind bine tolerate şi fără afectări secundare extracardiace pe
+termen lung. Flecainida poate da tulburări de vedere şi manifestări digestive, iar propafenona ameţeli,
+ataxie şi gust metalic. Cele mai importante efecte secundare sunt cele cardiace, proaritmice, care apar
+mai ales la pacienţi cu afectare cardiacă organică semnificativă, aceste medicamente fiind
+contraindicate în prezenţa cardiopatiilor structurale.
+
+
+
+
+                                                        156
+
