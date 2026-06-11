@@ -46,6 +46,8 @@
 
     /* TOC grid */
     .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(285px,1fr));gap:13px}
+    .home-test-panel{padding:18px 20px 16px;background:var(--pll);border:1px solid var(--bdr);border-radius:18px;margin-bottom:24px}
+    .home-test-panel .sec-lbl{margin-bottom:18px}
     .ch-card{background:var(--surf);border:1.5px solid var(--bdr);border-radius:13px;padding:17px 20px;display:flex;align-items:center;gap:13px;cursor:pointer;transition:all .18s;box-shadow:var(--sh)}
     .ch-card:hover{border-color:var(--pl);box-shadow:var(--sh2);transform:translateY(-2px)}
     .ch-num{background:linear-gradient(135deg,var(--pd),var(--p));color:#fff;width:41px;height:41px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:bold;flex-shrink:0;font-family:sans-serif}
@@ -157,6 +159,16 @@
     <p>Selectează un capitol pentru a accesa materia completă, structurată pe paragrafe și secțiuni colorate.</p>
   </div>
   <div class="sq-wrap"><input type="text" id="sq" placeholder="Caută capitol…" oninput="filt()"/></div>
+  <div class="home-test-panel">
+    <p class="sec-lbl">Teste și autoevaluare</p>
+    <div class="grid" id="test-grid">
+      <div class="ch-card" onclick="go('autotestare')">
+        <div class="ch-num">AT</div>
+        <div class="ch-short">AUTOTESTARE</div>
+        <span class="ch-arr">→</span>
+      </div>
+    </div>
+  </div>
   <p class="sec-lbl">Cuprins — 21 capitole</p>
   <div class="grid" id="grid">
     <div class="ch-card" onclick="go('c1')">
@@ -197,11 +209,6 @@
     <div class="ch-card" onclick="go('c8')">
       <div class="ch-num">11</div>
       <div class="ch-short">TAHICARDII VENTRICULARE</div>
-      <span class="ch-arr">→</span>
-    </div>
-    <div class="ch-card" onclick="go('autotestare')">
-      <div class="ch-num">AT</div>
-      <div class="ch-short">AUTOTESTARE</div>
       <span class="ch-arr">→</span>
     </div>
     <div class="ch-card" onclick="go('c9')">
@@ -268,7 +275,8 @@
       <div class="ch-num">26</div>
       <div class="ch-short">MOARTEA SUBITĂ CARDIACĂ</div>
       <span class="ch-arr">→</span>
-    </div></div>
+    </div>
+  </div>
 </div>
 
 
